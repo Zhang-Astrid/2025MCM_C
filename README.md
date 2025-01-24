@@ -1,17 +1,17 @@
 # 2025MCM_C
 ### Raw Data
--data
+#### -data
 
 ### Processed Data
--ProcessedData
+#### -ProcessedData
 
 ### Dataprocessing code
-ProcessAthleteTable.ipynb
-ProcessCountryTable.ipynb
-ProcessMedalTable.ipynb
+#### ProcessAthleteTable.ipynb
+#### ProcessCountryTable.ipynb
+#### ProcessMedalTable.ipynb
 
 ### Q1 code
-A1_ARIMA.ipynb @Gu\n
-SupervisedL.ipynb @Shan\n
-  first run data4Supervised.ipynb and then SupervisedL.ipynb\n
-  or use ProcessedData/data4Supervised.csv directedly in SupervisedL.ipynb\n
+#### A1_ARIMA.ipynb @Gu
+#### SupervisedL.ipynb @Shan
+##### first run data4Supervised.ipynb and then SupervisedL.ipynb
+##### or use ProcessedData/data4Supervised.csv directedly in SupervisedL.ipynb
