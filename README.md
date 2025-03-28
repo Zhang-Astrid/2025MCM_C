@@ -16,6 +16,7 @@ We developed a model named OlyPrc, which was designed to predict the number of m
  predict the medals for the next Olympic Games.
  
  Several models are constructed as a component of our system:
+ 
  For task 1, firstly, a National Sports Level Classification model, Host Effect Evaluation, and an
  Athlete Evaluation System are established to help process the raw data and construct a feature set for
  machine learning, and dig into the depth relation between those variables and actual medal counts.
