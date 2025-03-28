@@ -6,7 +6,7 @@ We developed a model named OlyPrc, which was designed to predict the number of m
 ##### **keyword**: ARIMA, Gradient Boosting, Linear Regression, K-means, Olympic medal
 
 ## Workflow
-[Workflow of our work](https://github.com/Zhang-Astrid/2025MCM_C/blob/main/report/Workflow.png)
+![Workflow of our work](https://github.com/Zhang-Astrid/2025MCM_C/blob/main/report/Workflow.png)
 
 ## Abstract
  In order to forecast the medal distribution in the forthcoming Olympic Games, grasp the sports
