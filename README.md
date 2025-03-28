@@ -14,6 +14,7 @@ We developed a model named OlyPrc, which was designed to predict the number of m
  training in diverse sports, and boost national sports competitiveness, we would like to develop a
  comprehensive projection system based on a time-series model and a supervised learning algorithm to
  predict the medals for the next Olympic Games.
+ 
  Several models are constructed as a component of our system:
  For task 1, firstly, a National Sports Level Classification model, Host Effect Evaluation, and an
  Athlete Evaluation System are established to help process the raw data and construct a feature set for
@@ -22,7 +23,8 @@ We developed a model named OlyPrc, which was designed to predict the number of m
  main prediction models, which have the lowest error rate and higher robustness. By the ARIMA-GB
  model we constructed, we obtained the prediction results as in Figure 5 and Figure 6, with a range
  of error within plus or minus 2.3 medals for a single species. Also, we find countries like Libya and
- Angola are quite likely to achieve their first Olympic medal in 2028 ( 2).
+ Angola are quite likely to achieve their first Olympic medal in 2028.
+ 
  For task 2, we first used the Linear Regression model to fit the data on ”great coaches” coaching
  and medal counts, analyzed the model parameters with OLS, and found a strong correlation between
  the model and the coaches. Subsequently, we screened for countries and projects that needed ”great
