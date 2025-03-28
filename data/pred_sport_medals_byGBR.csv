@@ -1,0 +1,1868 @@
+,Year,NOC,Sport,Past_Gold,Pred_Gold,Past_Silver,Pred_Silver,Past_Bronze,Pred_Bronze
+0,2028,AHO,Athletics,0.0,0,0.0,0,0.0,0
+1,2028,AHO,Judo,0.0,0,0.0,0,0.0,0
+2,2028,AHO,Swimming,0.0,0,0.0,0,0.0,0
+3,2028,ALB,Athletics,0.0,0,0.0,0,0.0,0
+4,2028,ALB,Shooting,0.0,0,0.0,0,0.0,0
+5,2028,ALB,Swimming,0.0,0,0.0,0,0.0,0
+6,2028,ALB,Wrestling,0.0,0,0.0,0,2.0,0
+7,2028,ALG,Athletics,0.0,0,0.0,0,1.0,0
+8,2028,ALG,Badminton,0.0,0,0.0,0,0.0,0
+9,2028,ALG,Boxing,1.0,0,0.0,0,0.0,0
+10,2028,ALG,Cycling Road,0.0,0,0.0,0,0.0,0
+11,2028,ALG,Fencing,0.0,0,0.0,0,0.0,0
+12,2028,ALG,Judo,0.0,0,0.0,0,0.0,0
+13,2028,ALG,Rowing,0.0,0,0.0,0,0.0,0
+14,2028,ALG,Sailing,0.0,0,0.0,0,0.0,0
+15,2028,ALG,Shooting,0.0,0,0.0,0,0.0,0
+16,2028,ALG,Swimming,0.0,0,0.0,0,0.0,0
+17,2028,ALG,Table Tennis,0.0,0,0.0,0,0.0,0
+18,2028,ALG,Weightlifting,0.0,0,0.0,0,0.0,0
+19,2028,ALG,Wrestling,0.0,0,0.0,0,0.0,0
+20,2028,AND,Athletics,0.0,0,0.0,0,0.0,0
+21,2028,AND,Canoe Slalom,0.0,0,0.0,0,0.0,0
+22,2028,ANG,Athletics,0.0,0,0.0,0,0.0,0
+23,2028,ANG,Handball,0.0,1,0.0,0,0.0,1
+24,2028,ANG,Judo,0.0,0,0.0,0,0.0,0
+25,2028,ANG,Rowing,0.0,0,0.0,0,0.0,0
+26,2028,ANG,Sailing,0.0,0,0.0,0,0.0,0
+27,2028,ANG,Swimming,0.0,0,0.0,0,0.0,0
+28,2028,ANT,Athletics,0.0,0,0.0,0,0.0,0
+29,2028,ANT,Sailing,0.0,0,0.0,0,0.0,0
+30,2028,ANT,Swimming,0.0,0,0.0,0,0.0,0
+31,2028,ARG,Archery,0.0,0,0.0,0,0.0,0
+32,2028,ARG,Athletics,0.0,0,0.0,0,0.0,0
+33,2028,ARG,Canoe Sprint,0.0,0,0.0,0,0.0,0
+34,2028,ARG,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+35,2028,ARG,Cycling Road,0.0,0,0.0,0,0.0,0
+36,2028,ARG,Equestrian,0.0,0,0.0,0,0.0,0
+37,2028,ARG,Fencing,0.0,0,0.0,0,0.0,0
+38,2028,ARG,Football,0.0,1,0.0,1,0.0,1
+39,2028,ARG,Golf,0.0,0,0.0,0,0.0,0
+40,2028,ARG,Handball,0.0,0,0.0,1,0.0,1
+41,2028,ARG,Hockey,0.0,4,0.0,4,16.0,4
+42,2028,ARG,Judo,0.0,0,0.0,0,0.0,0
+43,2028,ARG,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+44,2028,ARG,Rowing,0.0,0,0.0,0,0.0,0
+45,2028,ARG,Rugby Sevens,0.0,0,0.0,0,0.0,0
+46,2028,ARG,Sailing,0.0,0,2.0,0,0.0,0
+47,2028,ARG,Shooting,0.0,0,0.0,0,0.0,0
+48,2028,ARG,Swimming,0.0,0,0.0,0,0.0,0
+49,2028,ARG,Table Tennis,0.0,0,0.0,0,0.0,0
+50,2028,ARG,Taekwondo,0.0,0,0.0,0,0.0,0
+51,2028,ARG,Tennis,0.0,0,0.0,0,0.0,0
+52,2028,ARG,Triathlon,0.0,0,0.0,0,0.0,0
+53,2028,ARG,Volleyball,0.0,0,0.0,1,0.0,1
+54,2028,ARM,Artistic Gymnastics,0.0,0,1.0,0,0.0,0
+55,2028,ARM,Athletics,0.0,0,0.0,0,0.0,0
+56,2028,ARM,Boxing,0.0,0,0.0,0,0.0,0
+57,2028,ARM,Shooting,0.0,0,0.0,0,0.0,0
+58,2028,ARM,Swimming,0.0,0,0.0,0,0.0,0
+59,2028,ARM,Weightlifting,0.0,0,1.0,0,0.0,0
+60,2028,ARM,Wrestling,0.0,0,1.0,0,1.0,0
+61,2028,ARU,Sailing,0.0,0,0.0,0,0.0,0
+62,2028,ARU,Shooting,0.0,0,0.0,0,0.0,0
+63,2028,ARU,Swimming,0.0,0,0.0,0,0.0,0
+64,2028,ASA,Athletics,0.0,0,0.0,0,0.0,0
+65,2028,ASA,Swimming,0.0,0,0.0,0,0.0,0
+66,2028,AUS,Archery,0.0,0,0.0,0,0.0,0
+67,2028,AUS,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+68,2028,AUS,Artistic Swimming,0.0,0,0.0,0,0.0,0
+69,2028,AUS,Athletics,1.0,2,2.0,3,5.0,3
+70,2028,AUS,Badminton,0.0,0,0.0,0,0.0,0
+71,2028,AUS,Basketball,0.0,1,0.0,2,11.0,2
+72,2028,AUS,Beach Volleyball,0.0,0,0.0,0,0.0,0
+73,2028,AUS,Boxing,0.0,0,0.0,0,2.0,0
+74,2028,AUS,Canoe Slalom,3.0,1,0.0,1,0.0,1
+75,2028,AUS,Canoe Sprint,0.0,1,4.0,2,2.0,2
+76,2028,AUS,Cycling BMX Freestyle,0.0,0,0.0,0,1.0,0
+77,2028,AUS,Cycling BMX Racing,1.0,0,0.0,0,0.0,0
+78,2028,AUS,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+79,2028,AUS,Cycling Road,1.0,0,0.0,0,0.0,0
+80,2028,AUS,Cycling Track,5.0,3,2.0,3,5.0,3
+81,2028,AUS,Diving,0.0,0,1.0,0,0.0,0
+82,2028,AUS,Equestrian,0.0,0,1.0,0,0.0,0
+83,2028,AUS,Football,0.0,1,0.0,2,0.0,2
+84,2028,AUS,Golf,0.0,0,0.0,0,0.0,0
+85,2028,AUS,Hockey,0.0,1,0.0,2,0.0,2
+86,2028,AUS,Judo,0.0,0,0.0,0,0.0,0
+87,2028,AUS,Marathon Swimming,0.0,0,0.0,0,0.0,0
+88,2028,AUS,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+89,2028,AUS,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+90,2028,AUS,Rowing,0.0,1,0.0,2,2.0,2
+91,2028,AUS,Rugby Sevens,0.0,0,0.0,1,0.0,1
+92,2028,AUS,Sailing,1.0,1,1.0,1,0.0,1
+93,2028,AUS,Shooting,0.0,0,0.0,1,1.0,1
+94,2028,AUS,Skateboarding,2.0,1,0.0,0,0.0,0
+95,2028,AUS,Sport Climbing,0.0,0,0.0,0,0.0,0
+96,2028,AUS,Surfing,0.0,0,1.0,0,0.0,0
+97,2028,AUS,Swimming,17.0,12,19.0,10,15.0,12
+98,2028,AUS,Table Tennis,0.0,0,0.0,0,0.0,0
+99,2028,AUS,Taekwondo,0.0,0,0.0,0,0.0,0
+100,2028,AUS,Tennis,2.0,1,0.0,1,0.0,1
+101,2028,AUS,Trampoline Gymnastics,0.0,0,0.0,0,0.0,0
+102,2028,AUS,Triathlon,0.0,0,0.0,0,0.0,0
+103,2028,AUS,Water Polo,0.0,3,13.0,3,0.0,3
+104,2028,AUS,Weightlifting,0.0,0,0.0,0,0.0,0
+105,2028,AUS,Wrestling,0.0,0,0.0,0,0.0,0
+106,2028,AUT,Archery,0.0,0,0.0,0,0.0,0
+107,2028,AUT,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+108,2028,AUT,Artistic Swimming,0.0,0,0.0,0,0.0,0
+109,2028,AUT,Athletics,0.0,0,0.0,0,0.0,0
+110,2028,AUT,Badminton,0.0,0,0.0,0,0.0,0
+111,2028,AUT,Beach Volleyball,0.0,0,0.0,0,0.0,0
+112,2028,AUT,Canoe Slalom,0.0,0,0.0,0,0.0,0
+113,2028,AUT,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+114,2028,AUT,Cycling Road,0.0,0,0.0,0,0.0,0
+115,2028,AUT,Cycling Track,0.0,0,0.0,0,0.0,0
+116,2028,AUT,Diving,0.0,0,0.0,0,0.0,0
+117,2028,AUT,Equestrian,0.0,0,0.0,0,0.0,0
+118,2028,AUT,Golf,0.0,0,0.0,0,0.0,0
+119,2028,AUT,Judo,0.0,0,0.0,0,1.0,0
+120,2028,AUT,Rowing,0.0,0,0.0,0,0.0,0
+121,2028,AUT,Sailing,3.0,1,0.0,1,0.0,1
+122,2028,AUT,Shooting,0.0,0,0.0,0,0.0,0
+123,2028,AUT,Sport Climbing,0.0,0,0.0,0,2.0,0
+124,2028,AUT,Swimming,0.0,0,0.0,0,0.0,0
+125,2028,AUT,Table Tennis,0.0,0,0.0,0,0.0,0
+126,2028,AUT,Taekwondo,0.0,0,0.0,0,0.0,0
+127,2028,AUT,Tennis,0.0,0,0.0,0,0.0,0
+128,2028,AUT,Triathlon,0.0,0,0.0,0,0.0,0
+129,2028,AZE,Archery,0.0,0,0.0,0,0.0,0
+130,2028,AZE,Athletics,0.0,0,0.0,0,0.0,0
+131,2028,AZE,Badminton,0.0,0,0.0,0,0.0,0
+132,2028,AZE,Boxing,0.0,0,1.0,0,0.0,0
+133,2028,AZE,Fencing,0.0,0,0.0,0,0.0,0
+134,2028,AZE,Judo,2.0,1,0.0,0,0.0,0
+135,2028,AZE,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+136,2028,AZE,Rowing,0.0,0,0.0,0,0.0,0
+137,2028,AZE,Shooting,0.0,0,0.0,0,0.0,0
+138,2028,AZE,Swimming,0.0,0,0.0,0,0.0,0
+139,2028,AZE,Taekwondo,0.0,0,1.0,0,0.0,0
+140,2028,AZE,Triathlon,0.0,0,0.0,0,0.0,0
+141,2028,AZE,Wrestling,0.0,0,0.0,0,3.0,0
+142,2028,BAH,Athletics,0.0,0,0.0,0,0.0,0
+143,2028,BAH,Swimming,0.0,0,0.0,0,0.0,0
+144,2028,BAN,Archery,0.0,0,0.0,0,0.0,0
+145,2028,BAN,Athletics,0.0,0,0.0,0,0.0,0
+146,2028,BAN,Shooting,0.0,0,0.0,0,0.0,0
+147,2028,BAN,Swimming,0.0,0,0.0,0,0.0,0
+148,2028,BAR,Athletics,0.0,0,0.0,0,0.0,0
+149,2028,BAR,Swimming,0.0,0,0.0,0,0.0,0
+150,2028,BAR,Triathlon,0.0,0,0.0,0,0.0,0
+151,2028,BDI,Athletics,0.0,0,0.0,0,0.0,0
+152,2028,BDI,Judo,0.0,0,0.0,0,0.0,0
+153,2028,BDI,Swimming,0.0,0,0.0,0,0.0,0
+154,2028,BEL,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+155,2028,BEL,Athletics,1.0,1,1.0,1,1.0,2
+156,2028,BEL,Badminton,0.0,0,0.0,0,0.0,0
+157,2028,BEL,Basketball,0.0,0,0.0,0,0.0,1
+158,2028,BEL,Boxing,0.0,0,0.0,0,0.0,0
+159,2028,BEL,Canoe Sprint,0.0,0,0.0,0,0.0,0
+160,2028,BEL,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+161,2028,BEL,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+162,2028,BEL,Cycling Road,2.0,1,0.0,1,1.0,1
+163,2028,BEL,Cycling Track,0.0,0,0.0,0,1.0,0
+164,2028,BEL,Equestrian,0.0,0,0.0,0,0.0,0
+165,2028,BEL,Fencing,0.0,0,0.0,0,0.0,0
+166,2028,BEL,Golf,0.0,0,0.0,0,0.0,0
+167,2028,BEL,Hockey,0.0,1,0.0,1,0.0,1
+168,2028,BEL,Judo,0.0,0,0.0,0,1.0,0
+169,2028,BEL,Rowing,0.0,0,0.0,0,0.0,0
+170,2028,BEL,Sailing,0.0,0,0.0,0,0.0,0
+171,2028,BEL,Swimming,0.0,0,0.0,0,0.0,0
+172,2028,BEL,Table Tennis,0.0,0,0.0,0,0.0,0
+173,2028,BEL,Taekwondo,0.0,0,0.0,0,1.0,0
+174,2028,BEL,Tennis,0.0,0,0.0,0,0.0,0
+175,2028,BEL,Triathlon,0.0,0,0.0,0,0.0,0
+176,2028,BEL,Weightlifting,0.0,0,0.0,0,0.0,0
+177,2028,BEN,Athletics,0.0,0,0.0,0,0.0,0
+178,2028,BEN,Judo,0.0,0,0.0,0,0.0,0
+179,2028,BEN,Swimming,0.0,0,0.0,0,0.0,0
+180,2028,BER,Athletics,0.0,0,0.0,0,0.0,0
+181,2028,BER,Rowing,0.0,0,0.0,0,0.0,0
+182,2028,BER,Sailing,0.0,0,0.0,0,0.0,0
+183,2028,BER,Swimming,0.0,0,0.0,0,0.0,0
+184,2028,BER,Triathlon,0.0,0,0.0,0,0.0,0
+185,2028,BHU,Archery,0.0,0,0.0,0,0.0,0
+186,2028,BHU,Swimming,0.0,0,0.0,0,0.0,0
+187,2028,BIH,Athletics,0.0,0,0.0,0,0.0,0
+188,2028,BIH,Judo,0.0,0,0.0,0,0.0,0
+189,2028,BIH,Swimming,0.0,0,0.0,0,0.0,0
+190,2028,BIZ,Athletics,0.0,0,0.0,0,0.0,0
+191,2028,BOL,Athletics,0.0,0,0.0,0,0.0,0
+192,2028,BOL,Swimming,0.0,0,0.0,0,0.0,0
+193,2028,BOT,Athletics,1.0,2,6.0,2,0.0,2
+194,2028,BOT,Swimming,0.0,0,0.0,0,0.0,0
+195,2028,BRA,Archery,0.0,0,0.0,0,0.0,0
+196,2028,BRA,Artistic Gymnastics,1.0,2,2.0,1,5.0,1
+197,2028,BRA,Athletics,0.0,1,1.0,2,1.0,2
+198,2028,BRA,Badminton,0.0,0,0.0,0,0.0,0
+199,2028,BRA,Basketball,0.0,0,0.0,1,0.0,1
+200,2028,BRA,Beach Volleyball,2.0,1,0.0,0,0.0,0
+201,2028,BRA,Boxing,0.0,0,0.0,0,1.0,0
+202,2028,BRA,Canoe Slalom,0.0,0,0.0,0,0.0,0
+203,2028,BRA,Canoe Sprint,0.0,0,1.0,0,0.0,0
+204,2028,BRA,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+205,2028,BRA,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+206,2028,BRA,Diving,0.0,0,0.0,0,0.0,0
+207,2028,BRA,Equestrian,0.0,0,0.0,0,0.0,0
+208,2028,BRA,Fencing,0.0,0,0.0,0,0.0,0
+209,2028,BRA,Football,0.0,6,22.0,5,0.0,5
+210,2028,BRA,Handball,0.0,1,0.0,1,0.0,1
+211,2028,BRA,Judo,1.0,2,1.0,2,11.0,3
+212,2028,BRA,Marathon Swimming,0.0,0,0.0,0,0.0,0
+213,2028,BRA,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+214,2028,BRA,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+215,2028,BRA,Rowing,0.0,0,0.0,0,0.0,0
+216,2028,BRA,Rugby Sevens,0.0,0,0.0,0,0.0,1
+217,2028,BRA,Sailing,0.0,0,0.0,0,0.0,0
+218,2028,BRA,Shooting,0.0,0,0.0,0,0.0,0
+219,2028,BRA,Skateboarding,0.0,0,0.0,1,2.0,1
+220,2028,BRA,Surfing,0.0,0,1.0,0,1.0,0
+221,2028,BRA,Swimming,0.0,1,0.0,1,0.0,1
+222,2028,BRA,Table Tennis,0.0,0,0.0,0,0.0,0
+223,2028,BRA,Taekwondo,0.0,0,0.0,0,1.0,0
+224,2028,BRA,Tennis,0.0,0,0.0,0,0.0,0
+225,2028,BRA,Triathlon,0.0,0,0.0,0,0.0,0
+226,2028,BRA,Volleyball,0.0,2,0.0,3,13.0,3
+227,2028,BRA,Weightlifting,0.0,0,0.0,0,0.0,0
+228,2028,BRA,Wrestling,0.0,0,0.0,0,0.0,0
+229,2028,BRN,Athletics,1.0,1,1.0,1,0.0,1
+230,2028,BRN,Swimming,0.0,0,0.0,0,0.0,0
+231,2028,BRN,Wrestling,1.0,0,0.0,0,0.0,0
+232,2028,BRU,Athletics,0.0,0,0.0,0,0.0,0
+233,2028,BRU,Swimming,0.0,0,0.0,0,0.0,0
+234,2028,BUL,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+235,2028,BUL,Athletics,0.0,0,0.0,0,0.0,0
+236,2028,BUL,Badminton,0.0,0,0.0,0,0.0,0
+237,2028,BUL,Boxing,0.0,0,0.0,0,1.0,0
+238,2028,BUL,Canoe Sprint,0.0,0,0.0,0,0.0,0
+239,2028,BUL,Fencing,0.0,0,0.0,0,0.0,0
+240,2028,BUL,Judo,0.0,0,0.0,0,0.0,0
+241,2028,BUL,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+242,2028,BUL,Rhythmic Gymnastics,0.0,0,1.0,0,0.0,0
+243,2028,BUL,Rowing,0.0,0,0.0,0,0.0,0
+244,2028,BUL,Shooting,0.0,0,0.0,0,0.0,0
+245,2028,BUL,Swimming,0.0,0,0.0,0,0.0,0
+246,2028,BUL,Tennis,0.0,0,0.0,0,0.0,0
+247,2028,BUL,Weightlifting,1.0,0,0.0,0,1.0,0
+248,2028,BUL,Wrestling,2.0,1,0.0,0,0.0,0
+249,2028,BUR,Athletics,0.0,0,0.0,0,0.0,0
+250,2028,BUR,Cycling Road,0.0,0,0.0,0,0.0,0
+251,2028,BUR,Judo,0.0,0,0.0,0,0.0,0
+252,2028,BUR,Swimming,0.0,0,0.0,0,0.0,0
+253,2028,BUR,Taekwondo,0.0,0,0.0,0,0.0,0
+254,2028,CAF,Athletics,0.0,0,0.0,0,0.0,0
+255,2028,CAF,Judo,0.0,0,0.0,0,0.0,0
+256,2028,CAF,Swimming,0.0,0,0.0,0,0.0,0
+257,2028,CAM,Athletics,0.0,0,0.0,0,0.0,0
+258,2028,CAM,Swimming,0.0,0,0.0,0,0.0,0
+259,2028,CAN,Archery,0.0,0,0.0,0,0.0,0
+260,2028,CAN,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+261,2028,CAN,Artistic Swimming,0.0,0,0.0,0,0.0,0
+262,2028,CAN,Athletics,8.0,3,1.0,3,1.0,4
+263,2028,CAN,Badminton,0.0,0,0.0,0,0.0,0
+264,2028,CAN,Basketball,0.0,0,0.0,0,0.0,1
+265,2028,CAN,Beach Volleyball,0.0,0,2.0,0,0.0,0
+266,2028,CAN,Boxing,0.0,0,0.0,0,1.0,0
+267,2028,CAN,Canoe Slalom,0.0,0,0.0,0,0.0,0
+268,2028,CAN,Canoe Sprint,1.0,1,0.0,1,2.0,1
+269,2028,CAN,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+270,2028,CAN,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+271,2028,CAN,Cycling Road,0.0,0,0.0,0,0.0,0
+272,2028,CAN,Cycling Track,0.0,0,0.0,1,0.0,1
+273,2028,CAN,Diving,0.0,0,0.0,0,2.0,0
+274,2028,CAN,Equestrian,0.0,0,0.0,0,0.0,0
+275,2028,CAN,Fencing,0.0,0,0.0,0,1.0,0
+276,2028,CAN,Football,0.0,1,0.0,1,0.0,2
+277,2028,CAN,Golf,0.0,0,0.0,0,0.0,0
+278,2028,CAN,Judo,1.0,0,0.0,0,0.0,0
+279,2028,CAN,Marathon Swimming,0.0,0,0.0,0,0.0,0
+280,2028,CAN,Rowing,0.0,2,9.0,3,0.0,3
+281,2028,CAN,Rugby Sevens,0.0,3,14.0,3,0.0,3
+282,2028,CAN,Sailing,0.0,0,0.0,0,0.0,0
+283,2028,CAN,Shooting,0.0,0,0.0,0,0.0,0
+284,2028,CAN,Skateboarding,0.0,0,0.0,0,0.0,0
+285,2028,CAN,Swimming,3.0,3,2.0,2,3.0,3
+286,2028,CAN,Table Tennis,0.0,0,0.0,0,0.0,0
+287,2028,CAN,Taekwondo,0.0,0,0.0,0,1.0,0
+288,2028,CAN,Tennis,0.0,0,0.0,0,2.0,0
+289,2028,CAN,Trampoline Gymnastics,0.0,0,0.0,0,1.0,0
+290,2028,CAN,Triathlon,0.0,0,0.0,0,0.0,0
+291,2028,CAN,Volleyball,0.0,0,0.0,0,0.0,0
+292,2028,CAN,Water Polo,0.0,0,0.0,0,0.0,1
+293,2028,CAN,Weightlifting,0.0,0,1.0,0,0.0,0
+294,2028,CAN,Wrestling,0.0,0,0.0,0,0.0,0
+295,2028,CAY,Athletics,0.0,0,0.0,0,0.0,0
+296,2028,CAY,Sailing,0.0,0,0.0,0,0.0,0
+297,2028,CAY,Swimming,0.0,0,0.0,0,0.0,0
+298,2028,CGO,Athletics,0.0,0,0.0,0,0.0,0
+299,2028,CGO,Swimming,0.0,0,0.0,0,0.0,0
+300,2028,CGO,Table Tennis,0.0,0,0.0,0,0.0,0
+301,2028,CHA,Archery,0.0,0,0.0,0,0.0,0
+302,2028,CHA,Athletics,0.0,0,0.0,0,0.0,0
+303,2028,CHA,Judo,0.0,0,0.0,0,0.0,0
+304,2028,CHI,Archery,0.0,0,0.0,0,0.0,0
+305,2028,CHI,Athletics,0.0,0,0.0,0,0.0,0
+306,2028,CHI,Beach Volleyball,0.0,0,0.0,0,0.0,0
+307,2028,CHI,Canoe Sprint,0.0,0,0.0,0,0.0,0
+308,2028,CHI,Cycling BMX Freestyle,0.0,0,0.0,0,0.0,0
+309,2028,CHI,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+310,2028,CHI,Cycling Road,0.0,0,0.0,0,0.0,0
+311,2028,CHI,Equestrian,0.0,0,0.0,0,0.0,0
+312,2028,CHI,Fencing,0.0,0,0.0,0,0.0,0
+313,2028,CHI,Golf,0.0,0,0.0,0,0.0,0
+314,2028,CHI,Judo,0.0,0,0.0,0,0.0,0
+315,2028,CHI,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+316,2028,CHI,Rowing,0.0,0,0.0,0,0.0,0
+317,2028,CHI,Sailing,0.0,0,0.0,0,0.0,0
+318,2028,CHI,Shooting,1.0,0,0.0,0,0.0,0
+319,2028,CHI,Swimming,0.0,0,0.0,0,0.0,0
+320,2028,CHI,Table Tennis,0.0,0,0.0,0,0.0,0
+321,2028,CHI,Taekwondo,0.0,0,0.0,0,0.0,0
+322,2028,CHI,Tennis,0.0,0,0.0,0,0.0,0
+323,2028,CHI,Triathlon,0.0,0,0.0,0,0.0,0
+324,2028,CHI,Wrestling,0.0,0,1.0,0,0.0,0
+325,2028,CHN,Archery,0.0,0,0.0,0,0.0,0
+326,2028,CHN,Archery,0.0,1,3.0,1,0.0,1
+327,2028,CHN,Artistic Gymnastics,2.0,3,9.0,3,2.0,3
+328,2028,CHN,Artistic Swimming,11.0,4,0.0,2,0.0,2
+329,2028,CHN,Athletics,1.0,1,1.0,2,2.0,3
+330,2028,CHN,Badminton,4.0,3,5.0,2,0.0,2
+331,2028,CHN,Basketball,0.0,0,0.0,0,0.0,1
+332,2028,CHN,Beach Volleyball,0.0,0,0.0,0,0.0,0
+333,2028,CHN,Boxing,3.0,2,2.0,1,0.0,1
+334,2028,CHN,Canoe Slalom,0.0,0,0.0,0,0.0,0
+335,2028,CHN,Canoe Sprint,4.0,2,0.0,1,0.0,1
+336,2028,CHN,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+337,2028,CHN,Cycling Road,0.0,0,0.0,0,0.0,0
+338,2028,CHN,Cycling Track,0.0,0,0.0,0,0.0,0
+339,2028,CHN,Diving,12.0,7,2.0,3,1.0,3
+340,2028,CHN,Equestrian,0.0,0,0.0,0,0.0,0
+341,2028,CHN,Fencing,0.0,0,0.0,1,0.0,1
+342,2028,CHN,Golf,0.0,0,0.0,0,1.0,0
+343,2028,CHN,Hockey,0.0,3,17.0,4,0.0,4
+344,2028,CHN,Judo,0.0,0,0.0,0,1.0,0
+345,2028,CHN,Marathon Swimming,0.0,0,0.0,0,0.0,0
+346,2028,CHN,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+347,2028,CHN,Rhythmic Gymnastics,5.0,2,0.0,1,0.0,1
+348,2028,CHN,Rowing,0.0,1,0.0,2,0.0,2
+349,2028,CHN,Rugby Sevens,0.0,0,0.0,0,0.0,1
+350,2028,CHN,Sailing,0.0,0,0.0,0,0.0,0
+351,2028,CHN,Shooting,6.0,3,2.0,3,4.0,3
+352,2028,CHN,Skateboarding,0.0,0,0.0,0,0.0,0
+353,2028,CHN,Sport Climbing,0.0,0,2.0,0,0.0,0
+354,2028,CHN,Swimming,6.0,6,8.0,9,22.0,9
+355,2028,CHN,Table Tennis,10.0,5,1.0,2,0.0,2
+356,2028,CHN,Taekwondo,0.0,0,1.0,0,1.0,0
+357,2028,CHN,Tennis,1.0,1,2.0,1,0.0,1
+358,2028,CHN,Trampoline Gymnastics,0.0,0,1.0,0,1.0,0
+359,2028,CHN,Triathlon,0.0,0,0.0,0,0.0,0
+360,2028,CHN,Volleyball,0.0,0,0.0,0,0.0,1
+361,2028,CHN,Water Polo,0.0,0,0.0,0,0.0,1
+362,2028,CHN,Weightlifting,5.0,2,0.0,1,0.0,1
+363,2028,CHN,Wrestling,0.0,1,1.0,1,4.0,1
+364,2028,CIV,Athletics,0.0,0,0.0,0,0.0,0
+365,2028,CIV,Fencing,0.0,0,0.0,0,0.0,0
+366,2028,CIV,Judo,0.0,0,0.0,0,0.0,0
+367,2028,CIV,Taekwondo,0.0,0,0.0,0,1.0,0
+368,2028,CMR,Athletics,0.0,0,0.0,0,0.0,0
+369,2028,CMR,Judo,0.0,0,0.0,0,0.0,0
+370,2028,CMR,Swimming,0.0,0,0.0,0,0.0,0
+371,2028,CMR,Table Tennis,0.0,0,0.0,0,0.0,0
+372,2028,COD,Athletics,0.0,0,0.0,0,0.0,0
+373,2028,COD,Boxing,0.0,0,0.0,0,0.0,0
+374,2028,COD,Judo,0.0,0,0.0,0,0.0,0
+375,2028,COD,Swimming,0.0,0,0.0,0,0.0,0
+376,2028,COK,Athletics,0.0,0,0.0,0,0.0,0
+377,2028,COK,Swimming,0.0,0,0.0,0,0.0,0
+378,2028,COL,Archery,0.0,0,0.0,0,0.0,0
+379,2028,COL,Athletics,0.0,1,0.0,1,0.0,1
+380,2028,COL,Boxing,0.0,0,0.0,0,0.0,0
+381,2028,COL,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+382,2028,COL,Cycling Road,0.0,0,0.0,0,0.0,0
+383,2028,COL,Cycling Track,0.0,0,0.0,0,0.0,0
+384,2028,COL,Diving,0.0,0,0.0,0,0.0,0
+385,2028,COL,Equestrian,0.0,0,0.0,0,0.0,0
+386,2028,COL,Fencing,0.0,0,0.0,0,0.0,0
+387,2028,COL,Football,0.0,1,0.0,2,0.0,2
+388,2028,COL,Golf,0.0,0,0.0,0,0.0,0
+389,2028,COL,Judo,0.0,0,0.0,0,0.0,0
+390,2028,COL,Sailing,0.0,0,0.0,0,0.0,0
+391,2028,COL,Skateboarding,0.0,0,0.0,0,0.0,0
+392,2028,COL,Swimming,0.0,0,0.0,0,0.0,0
+393,2028,COL,Tennis,0.0,0,0.0,0,0.0,0
+394,2028,COL,Trampoline Gymnastics,0.0,0,0.0,0,0.0,0
+395,2028,COL,Triathlon,0.0,0,0.0,0,0.0,0
+396,2028,COL,Weightlifting,0.0,0,2.0,0,0.0,0
+397,2028,COL,Wrestling,0.0,0,0.0,0,1.0,0
+398,2028,COM,Athletics,0.0,0,0.0,0,0.0,0
+399,2028,COM,Swimming,0.0,0,0.0,0,0.0,0
+400,2028,CPV,Athletics,0.0,0,0.0,0,0.0,0
+401,2028,CPV,Boxing,0.0,0,0.0,0,1.0,0
+402,2028,CPV,Judo,0.0,0,0.0,0,0.0,0
+403,2028,CPV,Swimming,0.0,0,0.0,0,0.0,0
+404,2028,CRC,Athletics,0.0,0,0.0,0,0.0,0
+405,2028,CRC,Cycling Road,0.0,0,0.0,0,0.0,0
+406,2028,CRC,Judo,0.0,0,0.0,0,0.0,0
+407,2028,CRC,Surfing,0.0,0,0.0,0,0.0,0
+408,2028,CRC,Swimming,0.0,0,0.0,0,0.0,0
+409,2028,CRO,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+410,2028,CRO,Athletics,0.0,0,0.0,0,1.0,0
+411,2028,CRO,Boxing,0.0,0,0.0,0,0.0,0
+412,2028,CRO,Canoe Slalom,0.0,0,0.0,0,0.0,0
+413,2028,CRO,Canoe Sprint,0.0,0,0.0,0,0.0,0
+414,2028,CRO,Handball,0.0,0,0.0,0,0.0,0
+415,2028,CRO,Judo,1.0,0,0.0,0,0.0,0
+416,2028,CRO,Rowing,2.0,1,0.0,0,0.0,0
+417,2028,CRO,Sailing,0.0,0,0.0,0,0.0,0
+418,2028,CRO,Shooting,0.0,0,0.0,0,1.0,0
+419,2028,CRO,Swimming,0.0,0,0.0,0,0.0,0
+420,2028,CRO,Table Tennis,0.0,0,0.0,0,0.0,0
+421,2028,CRO,Taekwondo,0.0,0,0.0,0,1.0,0
+422,2028,CRO,Tennis,0.0,0,1.0,0,0.0,0
+423,2028,CRO,Water Polo,0.0,3,13.0,3,0.0,3
+424,2028,CUB,Archery,0.0,0,0.0,0,0.0,0
+425,2028,CUB,Athletics,0.0,0,0.0,1,0.0,1
+426,2028,CUB,Beach Volleyball,0.0,0,0.0,0,0.0,0
+427,2028,CUB,Boxing,1.0,0,0.0,0,1.0,0
+428,2028,CUB,Canoe Sprint,0.0,0,0.0,0,1.0,0
+429,2028,CUB,Cycling Road,0.0,0,0.0,0,0.0,0
+430,2028,CUB,Diving,0.0,0,0.0,0,0.0,0
+431,2028,CUB,Judo,0.0,0,0.0,0,0.0,0
+432,2028,CUB,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+433,2028,CUB,Rowing,0.0,0,0.0,0,0.0,0
+434,2028,CUB,Shooting,0.0,0,0.0,0,0.0,0
+435,2028,CUB,Swimming,0.0,0,0.0,0,0.0,0
+436,2028,CUB,Table Tennis,0.0,0,0.0,0,0.0,0
+437,2028,CUB,Taekwondo,0.0,0,0.0,0,1.0,0
+438,2028,CUB,Weightlifting,0.0,0,0.0,0,0.0,0
+439,2028,CUB,Wrestling,1.0,1,1.0,1,3.0,1
+440,2028,CYP,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+441,2028,CYP,Athletics,0.0,0,0.0,0,0.0,0
+442,2028,CYP,Cycling Road,0.0,0,0.0,0,0.0,0
+443,2028,CYP,Judo,0.0,0,0.0,0,0.0,0
+444,2028,CYP,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+445,2028,CYP,Sailing,0.0,0,1.0,0,0.0,0
+446,2028,CYP,Shooting,0.0,0,0.0,0,0.0,0
+447,2028,CYP,Swimming,0.0,0,0.0,0,0.0,0
+448,2028,CZE,Archery,0.0,0,0.0,0,0.0,0
+449,2028,CZE,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+450,2028,CZE,Athletics,0.0,1,0.0,1,1.0,1
+451,2028,CZE,Badminton,0.0,0,0.0,0,0.0,0
+452,2028,CZE,Beach Volleyball,0.0,0,0.0,0,0.0,0
+453,2028,CZE,Canoe Slalom,0.0,0,0.0,0,0.0,0
+454,2028,CZE,Canoe Sprint,2.0,1,0.0,0,0.0,0
+455,2028,CZE,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+456,2028,CZE,Cycling Road,0.0,0,0.0,0,0.0,0
+457,2028,CZE,Cycling Track,0.0,0,0.0,0,0.0,0
+458,2028,CZE,Equestrian,0.0,0,0.0,0,0.0,0
+459,2028,CZE,Fencing,0.0,0,0.0,1,4.0,1
+460,2028,CZE,Golf,0.0,0,0.0,0,0.0,0
+461,2028,CZE,Judo,0.0,0,0.0,0,0.0,0
+462,2028,CZE,Marathon Swimming,0.0,0,0.0,0,0.0,0
+463,2028,CZE,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+464,2028,CZE,Rowing,0.0,0,0.0,0,0.0,0
+465,2028,CZE,Sailing,0.0,0,0.0,0,0.0,0
+466,2028,CZE,Shooting,0.0,0,0.0,0,0.0,0
+467,2028,CZE,Sport Climbing,0.0,0,0.0,0,0.0,0
+468,2028,CZE,Swimming,0.0,0,0.0,0,0.0,0
+469,2028,CZE,Table Tennis,0.0,0,0.0,0,0.0,0
+470,2028,CZE,Tennis,2.0,1,0.0,0,0.0,0
+471,2028,CZE,Triathlon,0.0,0,0.0,0,0.0,0
+472,2028,CZE,Weightlifting,0.0,0,0.0,0,0.0,0
+473,2028,DEN,Archery,0.0,0,0.0,0,0.0,0
+474,2028,DEN,Athletics,0.0,0,0.0,1,0.0,1
+475,2028,DEN,Badminton,1.0,0,0.0,0,0.0,0
+476,2028,DEN,Boxing,0.0,0,0.0,0,0.0,0
+477,2028,DEN,Canoe Sprint,0.0,0,0.0,0,1.0,0
+478,2028,DEN,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+479,2028,DEN,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+480,2028,DEN,Cycling Road,0.0,0,0.0,0,0.0,0
+481,2028,DEN,Cycling Track,0.0,0,0.0,0,1.0,0
+482,2028,DEN,Equestrian,0.0,0,4.0,1,0.0,1
+483,2028,DEN,Golf,0.0,0,0.0,0,0.0,0
+484,2028,DEN,Handball,16.0,7,0.0,6,15.0,6
+485,2028,DEN,Judo,0.0,0,0.0,0,0.0,0
+486,2028,DEN,Rowing,0.0,0,0.0,0,0.0,0
+487,2028,DEN,Sailing,0.0,0,1.0,0,0.0,0
+488,2028,DEN,Shooting,0.0,0,0.0,0,0.0,0
+489,2028,DEN,Skateboarding,0.0,0,0.0,0,0.0,0
+490,2028,DEN,Swimming,0.0,0,0.0,0,0.0,0
+491,2028,DEN,Table Tennis,0.0,0,0.0,0,0.0,0
+492,2028,DEN,Taekwondo,0.0,0,0.0,0,1.0,0
+493,2028,DEN,Tennis,0.0,0,0.0,0,0.0,0
+494,2028,DEN,Triathlon,0.0,0,0.0,0,0.0,0
+495,2028,DEN,Wrestling,0.0,0,0.0,0,1.0,0
+496,2028,DJI,Athletics,0.0,0,0.0,0,0.0,0
+497,2028,DJI,Judo,0.0,0,0.0,0,0.0,0
+498,2028,DJI,Swimming,0.0,0,0.0,0,0.0,0
+499,2028,DMA,Athletics,1.0,0,0.0,0,0.0,0
+500,2028,DMA,Swimming,0.0,0,0.0,0,0.0,0
+501,2028,DOM,Athletics,1.0,0,0.0,0,0.0,0
+502,2028,DOM,Boxing,0.0,0,0.0,0,2.0,0
+503,2028,DOM,Diving,0.0,0,0.0,0,0.0,0
+504,2028,DOM,Equestrian,0.0,0,0.0,0,0.0,0
+505,2028,DOM,Judo,0.0,0,0.0,0,0.0,0
+506,2028,DOM,Shooting,0.0,0,0.0,0,0.0,0
+507,2028,DOM,Swimming,0.0,0,0.0,0,0.0,0
+508,2028,DOM,Taekwondo,0.0,0,0.0,0,0.0,0
+509,2028,DOM,Volleyball,0.0,0,0.0,0,0.0,1
+510,2028,DOM,Weightlifting,0.0,0,0.0,0,0.0,0
+511,2028,DOM,Wrestling,0.0,0,0.0,0,0.0,0
+512,2028,ECU,Athletics,1.0,1,2.0,1,0.0,1
+513,2028,ECU,Boxing,0.0,0,0.0,0,0.0,0
+514,2028,ECU,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+515,2028,ECU,Cycling Road,0.0,0,0.0,0,0.0,0
+516,2028,ECU,Equestrian,0.0,0,0.0,0,0.0,0
+517,2028,ECU,Judo,0.0,0,0.0,0,0.0,0
+518,2028,ECU,Marathon Swimming,0.0,0,0.0,0,0.0,0
+519,2028,ECU,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+520,2028,ECU,Shooting,0.0,0,0.0,0,0.0,0
+521,2028,ECU,Swimming,0.0,0,0.0,0,0.0,0
+522,2028,ECU,Table Tennis,0.0,0,0.0,0,0.0,0
+523,2028,ECU,Triathlon,0.0,0,0.0,0,0.0,0
+524,2028,ECU,Weightlifting,0.0,0,0.0,0,2.0,0
+525,2028,ECU,Wrestling,0.0,0,1.0,0,0.0,0
+526,2028,EGY,Archery,0.0,0,0.0,0,0.0,0
+527,2028,EGY,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+528,2028,EGY,Artistic Swimming,0.0,0,0.0,0,0.0,0
+529,2028,EGY,Athletics,0.0,0,0.0,0,0.0,0
+530,2028,EGY,Beach Volleyball,0.0,0,0.0,0,0.0,0
+531,2028,EGY,Boxing,0.0,0,0.0,0,0.0,0
+532,2028,EGY,Canoe Sprint,0.0,0,0.0,0,0.0,0
+533,2028,EGY,Cycling Track,0.0,0,0.0,0,0.0,0
+534,2028,EGY,Diving,0.0,0,0.0,0,0.0,0
+535,2028,EGY,Fencing,0.0,0,0.0,0,1.0,1
+536,2028,EGY,Football,0.0,1,0.0,1,0.0,1
+537,2028,EGY,Handball,0.0,0,0.0,1,0.0,1
+538,2028,EGY,Judo,0.0,0,0.0,0,0.0,0
+539,2028,EGY,Modern Pentathlon,1.0,0,0.0,0,0.0,0
+540,2028,EGY,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+541,2028,EGY,Rowing,0.0,0,0.0,0,0.0,0
+542,2028,EGY,Sailing,0.0,0,0.0,0,0.0,0
+543,2028,EGY,Shooting,0.0,0,0.0,0,0.0,0
+544,2028,EGY,Swimming,0.0,0,0.0,0,0.0,0
+545,2028,EGY,Table Tennis,0.0,0,0.0,0,0.0,0
+546,2028,EGY,Taekwondo,0.0,0,0.0,0,0.0,0
+547,2028,EGY,Tennis,0.0,0,0.0,0,0.0,0
+548,2028,EGY,Trampoline Gymnastics,0.0,0,0.0,0,0.0,0
+549,2028,EGY,Volleyball,0.0,0,0.0,0,0.0,0
+550,2028,EGY,Weightlifting,0.0,0,1.0,0,0.0,0
+551,2028,EGY,Wrestling,0.0,0,0.0,0,0.0,0
+552,2028,EOR,Athletics,0.0,0,0.0,0,0.0,0
+553,2028,EOR,Badminton,0.0,0,0.0,0,0.0,0
+554,2028,EOR,Boxing,0.0,0,0.0,0,1.0,0
+555,2028,EOR,Canoe Sprint,0.0,0,0.0,0,0.0,0
+556,2028,EOR,Cycling Road,0.0,0,0.0,0,0.0,0
+557,2028,EOR,Judo,0.0,0,0.0,0,0.0,0
+558,2028,EOR,Shooting,0.0,0,0.0,0,0.0,0
+559,2028,EOR,Swimming,0.0,0,0.0,0,0.0,0
+560,2028,EOR,Taekwondo,0.0,0,0.0,0,0.0,0
+561,2028,EOR,Weightlifting,0.0,0,0.0,0,0.0,0
+562,2028,EOR,Wrestling,0.0,0,0.0,0,0.0,0
+563,2028,ERI,Athletics,0.0,0,0.0,0,0.0,0
+564,2028,ERI,Cycling Road,0.0,0,0.0,0,0.0,0
+565,2028,ERI,Swimming,0.0,0,0.0,0,0.0,0
+566,2028,ESA,Archery,0.0,0,0.0,0,0.0,0
+567,2028,ESA,Judo,0.0,0,0.0,0,0.0,0
+568,2028,ESA,Sailing,0.0,0,0.0,0,0.0,0
+569,2028,ESA,Shooting,0.0,0,0.0,0,0.0,0
+570,2028,ESA,Swimming,0.0,0,0.0,0,0.0,0
+571,2028,ESP,Archery,0.0,0,0.0,0,0.0,0
+572,2028,ESP,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+573,2028,ESP,Artistic Swimming,0.0,1,0.0,2,9.0,2
+574,2028,ESP,Athletics,3.0,2,1.0,2,1.0,3
+575,2028,ESP,Badminton,0.0,0,0.0,0,0.0,0
+576,2028,ESP,Basketball,0.0,0,0.0,1,0.0,1
+577,2028,ESP,Beach Volleyball,0.0,0,0.0,0,0.0,0
+578,2028,ESP,Boxing,0.0,0,1.0,0,1.0,0
+579,2028,ESP,Canoe Slalom,0.0,0,0.0,0,1.0,0
+580,2028,ESP,Canoe Sprint,0.0,1,0.0,1,6.0,1
+581,2028,ESP,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+582,2028,ESP,Cycling Road,0.0,0,0.0,0,0.0,0
+583,2028,ESP,Cycling Track,0.0,0,0.0,0,0.0,0
+584,2028,ESP,Diving,0.0,0,0.0,0,0.0,0
+585,2028,ESP,Equestrian,0.0,0,0.0,0,0.0,0
+586,2028,ESP,Fencing,0.0,0,0.0,0,0.0,0
+587,2028,ESP,Football,22.0,7,0.0,4,0.0,4
+588,2028,ESP,Golf,0.0,0,0.0,0,0.0,0
+589,2028,ESP,Handball,0.0,3,0.0,3,15.0,3
+590,2028,ESP,Hockey,0.0,1,0.0,2,0.0,2
+591,2028,ESP,Judo,0.0,0,0.0,0,1.0,0
+592,2028,ESP,Marathon Swimming,0.0,0,0.0,0,0.0,0
+593,2028,ESP,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+594,2028,ESP,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+595,2028,ESP,Rowing,0.0,0,0.0,0,0.0,0
+596,2028,ESP,Sailing,2.0,1,0.0,1,0.0,1
+597,2028,ESP,Shooting,0.0,0,0.0,0,0.0,0
+598,2028,ESP,Skateboarding,0.0,0,0.0,0,0.0,0
+599,2028,ESP,Sport Climbing,0.0,0,0.0,0,0.0,0
+600,2028,ESP,Swimming,0.0,0,0.0,0,0.0,0
+601,2028,ESP,Table Tennis,0.0,0,0.0,0,0.0,0
+602,2028,ESP,Taekwondo,0.0,0,0.0,0,0.0,0
+603,2028,ESP,Tennis,0.0,0,1.0,1,2.0,1
+604,2028,ESP,Triathlon,0.0,0,0.0,0,0.0,0
+605,2028,ESP,Water Polo,13.0,5,0.0,3,0.0,3
+606,2028,EST,Archery,0.0,0,0.0,0,0.0,0
+607,2028,EST,Athletics,0.0,0,0.0,0,0.0,0
+608,2028,EST,Badminton,0.0,0,0.0,0,0.0,0
+609,2028,EST,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+610,2028,EST,Cycling Road,0.0,0,0.0,0,0.0,0
+611,2028,EST,Equestrian,0.0,0,0.0,0,0.0,0
+612,2028,EST,Fencing,0.0,0,0.0,0,0.0,0
+613,2028,EST,Judo,0.0,0,0.0,0,0.0,0
+614,2028,EST,Rowing,0.0,0,0.0,0,0.0,0
+615,2028,EST,Sailing,0.0,0,0.0,0,0.0,0
+616,2028,EST,Shooting,0.0,0,0.0,0,0.0,0
+617,2028,EST,Swimming,0.0,0,0.0,0,0.0,0
+618,2028,EST,Weightlifting,0.0,0,0.0,0,0.0,0
+619,2028,EST,Wrestling,0.0,0,0.0,0,0.0,0
+620,2028,ETH,Athletics,1.0,1,3.0,2,0.0,3
+621,2028,ETH,Swimming,0.0,0,0.0,0,0.0,0
+622,2028,FIJ,Athletics,0.0,0,0.0,0,0.0,0
+623,2028,FIJ,Judo,0.0,0,0.0,0,0.0,0
+624,2028,FIJ,Rugby Sevens,0.0,3,14.0,3,0.0,3
+625,2028,FIJ,Sailing,0.0,0,0.0,0,0.0,0
+626,2028,FIJ,Swimming,0.0,0,0.0,0,0.0,0
+627,2028,FIJ,Table Tennis,0.0,0,0.0,0,0.0,0
+628,2028,FIN,Archery,0.0,0,0.0,0,0.0,0
+629,2028,FIN,Athletics,0.0,0,0.0,1,0.0,1
+630,2028,FIN,Badminton,0.0,0,0.0,0,0.0,0
+631,2028,FIN,Boxing,0.0,0,0.0,0,0.0,0
+632,2028,FIN,Equestrian,0.0,0,0.0,0,0.0,0
+633,2028,FIN,Golf,0.0,0,0.0,0,0.0,0
+634,2028,FIN,Judo,0.0,0,0.0,0,0.0,0
+635,2028,FIN,Sailing,0.0,0,0.0,0,0.0,0
+636,2028,FIN,Shooting,0.0,0,0.0,0,0.0,0
+637,2028,FIN,Skateboarding,0.0,0,0.0,0,0.0,0
+638,2028,FIN,Swimming,0.0,0,0.0,0,0.0,0
+639,2028,FIN,Wrestling,0.0,0,0.0,0,0.0,0
+640,2028,FRA,Archery,0.0,0,4.0,1,0.0,1
+641,2028,FRA,Archery,0.0,0,3.0,1,1.0,1
+642,2028,FRA,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+643,2028,FRA,Artistic Swimming,0.0,0,0.0,0,0.0,0
+644,2028,FRA,Athletics,0.0,0,1.0,2,0.0,2
+645,2028,FRA,Badminton,0.0,0,0.0,0,0.0,0
+646,2028,FRA,Basketball,0.0,8,24.0,4,0.0,2
+647,2028,FRA,Beach Volleyball,0.0,0,0.0,0,0.0,0
+648,2028,FRA,Boxing,0.0,0,2.0,0,1.0,1
+649,2028,FRA,Canoe Slalom,1.0,1,2.0,1,0.0,1
+650,2028,FRA,Canoe Sprint,0.0,0,0.0,0,0.0,0
+651,2028,FRA,Cycling BMX Freestyle,0.0,0,0.0,0,1.0,0
+652,2028,FRA,Cycling BMX Racing,1.0,1,1.0,1,1.0,1
+653,2028,FRA,Cycling Mountain Bike,1.0,0,1.0,0,0.0,0
+654,2028,FRA,Cycling Road,0.0,0,1.0,0,1.0,0
+655,2028,FRA,Cycling Track,1.0,1,0.0,1,0.0,1
+656,2028,FRA,Diving,0.0,0,0.0,0,0.0,0
+657,2028,FRA,Equestrian,0.0,2,4.0,2,4.0,2
+658,2028,FRA,Fencing,1.0,3,7.0,3,8.0,3
+659,2028,FRA,Football,0.0,4,21.0,4,0.0,4
+660,2028,FRA,Golf,0.0,0,0.0,0,0.0,0
+661,2028,FRA,Handball,0.0,3,17.0,4,0.0,4
+662,2028,FRA,Hockey,0.0,0,0.0,1,0.0,1
+663,2028,FRA,Judo,15.0,6,2.0,4,6.0,4
+664,2028,FRA,Marathon Swimming,0.0,0,0.0,0,0.0,0
+665,2028,FRA,Modern Pentathlon,0.0,0,1.0,0,0.0,0
+666,2028,FRA,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+667,2028,FRA,Rowing,0.0,0,0.0,0,0.0,0
+668,2028,FRA,Rugby Sevens,13.0,5,0.0,3,0.0,3
+669,2028,FRA,Sailing,0.0,1,1.0,1,2.0,1
+670,2028,FRA,Shooting,0.0,0,1.0,0,0.0,0
+671,2028,FRA,Skateboarding,0.0,0,0.0,0,0.0,0
+672,2028,FRA,Sport Climbing,0.0,0,0.0,0,0.0,0
+673,2028,FRA,Surfing,1.0,0,0.0,0,1.0,0
+674,2028,FRA,Swimming,4.0,3,1.0,3,7.0,3
+675,2028,FRA,Table Tennis,0.0,0,0.0,1,4.0,1
+676,2028,FRA,Taekwondo,1.0,0,0.0,0,1.0,0
+677,2028,FRA,Tennis,0.0,0,0.0,0,0.0,0
+678,2028,FRA,Trampoline Gymnastics,0.0,0,0.0,0,0.0,0
+679,2028,FRA,Triathlon,1.0,0,0.0,0,1.0,0
+680,2028,FRA,Volleyball,13.0,5,0.0,3,0.0,3
+681,2028,FRA,Water Polo,0.0,0,0.0,0,0.0,0
+682,2028,FRA,Weightlifting,0.0,0,0.0,0,0.0,0
+683,2028,FRA,Wrestling,0.0,0,0.0,0,0.0,0
+684,2028,FSM,Athletics,0.0,0,0.0,0,0.0,0
+685,2028,FSM,Swimming,0.0,0,0.0,0,0.0,0
+686,2028,GAB,Athletics,0.0,0,0.0,0,0.0,0
+687,2028,GAB,Judo,0.0,0,0.0,0,0.0,0
+688,2028,GAB,Swimming,0.0,0,0.0,0,0.0,0
+689,2028,GAB,Taekwondo,0.0,0,0.0,0,0.0,0
+690,2028,GAM,Athletics,0.0,0,0.0,0,0.0,0
+691,2028,GAM,Judo,0.0,0,0.0,0,0.0,0
+692,2028,GAM,Swimming,0.0,0,0.0,0,0.0,0
+693,2028,GBR,Archery,0.0,0,0.0,0,0.0,0
+694,2028,GBR,Artistic Gymnastics,0.0,0,0.0,0,2.0,0
+695,2028,GBR,Artistic Swimming,0.0,0,2.0,0,0.0,0
+696,2028,GBR,Athletics,1.0,5,9.0,9,30.0,8
+697,2028,GBR,Badminton,0.0,0,0.0,0,0.0,0
+698,2028,GBR,Boxing,0.0,0,0.0,0,1.0,0
+699,2028,GBR,Canoe Slalom,0.0,0,2.0,1,2.0,1
+700,2028,GBR,Cycling BMX Freestyle,0.0,0,1.0,0,0.0,0
+701,2028,GBR,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+702,2028,GBR,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+703,2028,GBR,Cycling Road,0.0,0,1.0,0,0.0,0
+704,2028,GBR,Cycling Track,4.0,5,11.0,4,9.0,4
+705,2028,GBR,Diving,0.0,2,2.0,2,7.0,2
+706,2028,GBR,Equestrian,8.0,4,0.0,3,6.0,3
+707,2028,GBR,Golf,0.0,0,1.0,0,0.0,0
+708,2028,GBR,Hockey,0.0,1,0.0,2,0.0,2
+709,2028,GBR,Judo,0.0,0,0.0,0,0.0,0
+710,2028,GBR,Marathon Swimming,0.0,0,0.0,0,0.0,0
+711,2028,GBR,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+712,2028,GBR,Rowing,15.0,8,6.0,9,15.0,10
+713,2028,GBR,Rugby Sevens,0.0,0,0.0,1,0.0,1
+714,2028,GBR,Sailing,1.0,1,0.0,1,1.0,1
+715,2028,GBR,Shooting,1.0,0,1.0,0,0.0,0
+716,2028,GBR,Skateboarding,0.0,0,0.0,0,1.0,0
+717,2028,GBR,Sport Climbing,1.0,0,0.0,0,0.0,0
+718,2028,GBR,Swimming,6.0,3,4.0,3,0.0,3
+719,2028,GBR,Table Tennis,0.0,0,0.0,0,0.0,0
+720,2028,GBR,Taekwondo,0.0,0,1.0,0,0.0,0
+721,2028,GBR,Tennis,0.0,0,0.0,0,0.0,0
+722,2028,GBR,Trampoline Gymnastics,1.0,0,0.0,0,0.0,0
+723,2028,GBR,Triathlon,1.0,0,0.0,0,1.0,0
+724,2028,GBR,Weightlifting,0.0,0,0.0,0,1.0,0
+725,2028,GBS,Athletics,0.0,0,0.0,0,0.0,0
+726,2028,GBS,Judo,0.0,0,0.0,0,0.0,0
+727,2028,GBS,Wrestling,0.0,0,0.0,0,0.0,0
+728,2028,GEO,Athletics,0.0,0,0.0,0,0.0,0
+729,2028,GEO,Boxing,0.0,0,0.0,0,1.0,0
+730,2028,GEO,Fencing,0.0,0,0.0,0,0.0,0
+731,2028,GEO,Judo,1.0,1,2.0,1,0.0,1
+732,2028,GEO,Shooting,0.0,0,0.0,0,0.0,0
+733,2028,GEO,Swimming,0.0,0,0.0,0,0.0,0
+734,2028,GEO,Weightlifting,1.0,0,0.0,0,0.0,0
+735,2028,GEO,Wrestling,1.0,0,1.0,0,0.0,0
+736,2028,GEQ,Athletics,0.0,0,0.0,0,0.0,0
+737,2028,GEQ,Swimming,0.0,0,0.0,0,0.0,0
+738,2028,GER,Archery,0.0,0,2.0,0,0.0,0
+739,2028,GER,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+740,2028,GER,Athletics,1.0,2,2.0,3,5.0,3
+741,2028,GER,Badminton,0.0,0,0.0,0,0.0,0
+742,2028,GER,Basketball,0.0,0,0.0,0,0.0,0
+743,2028,GER,Beach Volleyball,0.0,0,2.0,0,0.0,0
+744,2028,GER,Boxing,0.0,0,0.0,0,1.0,0
+745,2028,GER,Canoe Slalom,0.0,0,1.0,0,1.0,0
+746,2028,GER,Canoe Sprint,6.0,3,4.0,3,2.0,3
+747,2028,GER,Cycling BMX Freestyle,0.0,0,0.0,0,0.0,0
+748,2028,GER,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+749,2028,GER,Cycling Road,0.0,0,0.0,0,0.0,0
+750,2028,GER,Cycling Track,0.0,1,1.0,1,4.0,1
+751,2028,GER,Diving,0.0,0,0.0,0,0.0,0
+752,2028,GER,Equestrian,7.0,3,1.0,2,0.0,2
+753,2028,GER,Fencing,0.0,0,0.0,0,0.0,0
+754,2028,GER,Football,0.0,3,0.0,3,20.0,3
+755,2028,GER,Golf,0.0,0,1.0,0,0.0,0
+756,2028,GER,Handball,0.0,3,16.0,3,0.0,3
+757,2028,GER,Hockey,0.0,4,18.0,4,0.0,4
+758,2028,GER,Judo,0.0,0,1.0,1,0.0,1
+759,2028,GER,Marathon Swimming,0.0,0,0.0,0,0.0,0
+760,2028,GER,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+761,2028,GER,Rhythmic Gymnastics,1.0,0,0.0,0,0.0,0
+762,2028,GER,Rowing,1.0,1,0.0,1,4.0,2
+763,2028,GER,Sailing,0.0,0,0.0,0,0.0,0
+764,2028,GER,Shooting,0.0,0,0.0,0,0.0,0
+765,2028,GER,Skateboarding,0.0,0,0.0,0,0.0,0
+766,2028,GER,Sport Climbing,0.0,0,0.0,0,0.0,0
+767,2028,GER,Surfing,0.0,0,0.0,0,0.0,0
+768,2028,GER,Swimming,1.0,1,0.0,1,1.0,1
+769,2028,GER,Table Tennis,0.0,0,0.0,0,0.0,0
+770,2028,GER,Taekwondo,0.0,0,0.0,0,0.0,0
+771,2028,GER,Tennis,0.0,0,0.0,0,0.0,0
+772,2028,GER,Triathlon,0.0,0,0.0,0,0.0,0
+773,2028,GER,Volleyball,0.0,0,0.0,0,0.0,0
+774,2028,GER,Wrestling,0.0,0,0.0,0,0.0,0
+775,2028,GHA,Athletics,0.0,0,0.0,0,0.0,0
+776,2028,GHA,Swimming,0.0,0,0.0,0,0.0,0
+777,2028,GRE,Artistic Gymnastics,0.0,0,0.0,0,1.0,0
+778,2028,GRE,Artistic Swimming,0.0,0,0.0,0,0.0,0
+779,2028,GRE,Athletics,1.0,1,0.0,1,1.0,1
+780,2028,GRE,Basketball,0.0,0,0.0,0,0.0,0
+781,2028,GRE,Cycling Road,0.0,0,0.0,0,0.0,0
+782,2028,GRE,Fencing,0.0,0,0.0,0,0.0,0
+783,2028,GRE,Judo,0.0,0,0.0,0,1.0,0
+784,2028,GRE,Marathon Swimming,0.0,0,0.0,0,0.0,0
+785,2028,GRE,Rowing,0.0,0,0.0,1,4.0,1
+786,2028,GRE,Sailing,0.0,0,0.0,0,0.0,0
+787,2028,GRE,Shooting,0.0,0,0.0,0,0.0,0
+788,2028,GRE,Swimming,0.0,0,1.0,0,0.0,0
+789,2028,GRE,Table Tennis,0.0,0,0.0,0,0.0,0
+790,2028,GRE,Tennis,0.0,0,0.0,0,0.0,0
+791,2028,GRE,Water Polo,0.0,0,0.0,0,0.0,0
+792,2028,GRE,Wrestling,0.0,0,0.0,0,1.0,0
+793,2028,GRN,Athletics,0.0,0,0.0,0,2.0,0
+794,2028,GRN,Swimming,0.0,0,0.0,0,0.0,0
+795,2028,GUA,Athletics,0.0,0,0.0,0,0.0,0
+796,2028,GUA,Badminton,0.0,0,0.0,0,0.0,0
+797,2028,GUA,Judo,0.0,0,0.0,0,0.0,0
+798,2028,GUA,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+799,2028,GUA,Sailing,0.0,0,0.0,0,0.0,0
+800,2028,GUA,Shooting,1.0,0,0.0,0,1.0,0
+801,2028,GUA,Swimming,0.0,0,0.0,0,0.0,0
+802,2028,GUI,Athletics,0.0,0,0.0,0,0.0,0
+803,2028,GUI,Football,0.0,0,0.0,0,0.0,0
+804,2028,GUI,Judo,0.0,0,0.0,0,0.0,0
+805,2028,GUI,Swimming,0.0,0,0.0,0,0.0,0
+806,2028,GUM,Athletics,0.0,0,0.0,0,0.0,0
+807,2028,GUM,Judo,0.0,0,0.0,0,0.0,0
+808,2028,GUM,Weightlifting,0.0,0,0.0,0,0.0,0
+809,2028,GUM,Wrestling,0.0,0,0.0,0,0.0,0
+810,2028,GUY,Athletics,0.0,0,0.0,0,0.0,0
+811,2028,GUY,Swimming,0.0,0,0.0,0,0.0,0
+812,2028,GUY,Table Tennis,0.0,0,0.0,0,0.0,0
+813,2028,HAI,Athletics,0.0,0,0.0,0,0.0,0
+814,2028,HAI,Boxing,0.0,0,0.0,0,0.0,0
+815,2028,HAI,Judo,0.0,0,0.0,0,0.0,0
+816,2028,HAI,Swimming,0.0,0,0.0,0,0.0,0
+817,2028,HKG,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+818,2028,HKG,Athletics,0.0,0,0.0,0,0.0,0
+819,2028,HKG,Badminton,0.0,0,0.0,0,0.0,0
+820,2028,HKG,Cycling Road,0.0,0,0.0,0,0.0,0
+821,2028,HKG,Fencing,2.0,1,0.0,0,0.0,0
+822,2028,HKG,Judo,0.0,0,0.0,0,0.0,0
+823,2028,HKG,Rowing,0.0,0,0.0,0,0.0,0
+824,2028,HKG,Sailing,0.0,0,0.0,0,0.0,0
+825,2028,HKG,Swimming,0.0,0,0.0,0,2.0,0
+826,2028,HKG,Table Tennis,0.0,0,0.0,0,0.0,0
+827,2028,HKG,Triathlon,0.0,0,0.0,0,0.0,0
+828,2028,HON,Athletics,0.0,0,0.0,0,0.0,0
+829,2028,HON,Swimming,0.0,0,0.0,0,0.0,0
+830,2028,HON,Wrestling,0.0,0,0.0,0,0.0,0
+831,2028,HUN,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+832,2028,HUN,Athletics,0.0,0,1.0,1,0.0,1
+833,2028,HUN,Boxing,0.0,0,0.0,0,0.0,0
+834,2028,HUN,Canoe Sprint,0.0,2,6.0,3,7.0,3
+835,2028,HUN,Cycling Road,0.0,0,0.0,0,0.0,0
+836,2028,HUN,Fencing,4.0,3,4.0,2,1.0,2
+837,2028,HUN,Handball,0.0,1,0.0,1,0.0,2
+838,2028,HUN,Judo,0.0,0,0.0,0,0.0,0
+839,2028,HUN,Marathon Swimming,1.0,0,0.0,0,0.0,0
+840,2028,HUN,Modern Pentathlon,1.0,0,0.0,0,0.0,0
+841,2028,HUN,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+842,2028,HUN,Rowing,0.0,0,0.0,0,0.0,0
+843,2028,HUN,Sailing,0.0,0,0.0,0,0.0,0
+844,2028,HUN,Shooting,0.0,0,0.0,0,1.0,0
+845,2028,HUN,Swimming,2.0,1,1.0,1,0.0,2
+846,2028,HUN,Table Tennis,0.0,0,0.0,0,0.0,0
+847,2028,HUN,Taekwondo,1.0,0,0.0,0,0.0,0
+848,2028,HUN,Tennis,0.0,0,0.0,0,0.0,0
+849,2028,HUN,Triathlon,0.0,0,0.0,0,0.0,0
+850,2028,HUN,Water Polo,0.0,0,0.0,1,0.0,1
+851,2028,HUN,Wrestling,0.0,0,0.0,0,0.0,0
+852,2028,INA,Archery,0.0,0,0.0,0,0.0,0
+853,2028,INA,Athletics,0.0,0,0.0,0,0.0,0
+854,2028,INA,Badminton,0.0,0,0.0,0,1.0,0
+855,2028,INA,Judo,0.0,0,0.0,0,0.0,0
+856,2028,INA,Rowing,0.0,0,0.0,0,0.0,0
+857,2028,INA,Shooting,0.0,0,0.0,0,0.0,0
+858,2028,INA,Surfing,0.0,0,0.0,0,0.0,0
+859,2028,INA,Swimming,0.0,0,0.0,0,0.0,0
+860,2028,INA,Weightlifting,1.0,0,0.0,0,0.0,0
+861,2028,IND,Archery,0.0,0,0.0,0,0.0,0
+862,2028,IND,Athletics,0.0,1,1.0,1,0.0,1
+863,2028,IND,Badminton,0.0,0,0.0,0,0.0,0
+864,2028,IND,Boxing,0.0,0,0.0,0,0.0,0
+865,2028,IND,Equestrian,0.0,0,0.0,0,0.0,0
+866,2028,IND,Golf,0.0,0,0.0,0,0.0,0
+867,2028,IND,Hockey,0.0,4,0.0,4,16.0,4
+868,2028,IND,Judo,0.0,0,0.0,0,0.0,0
+869,2028,IND,Rowing,0.0,0,0.0,0,0.0,0
+870,2028,IND,Sailing,0.0,0,0.0,0,0.0,0
+871,2028,IND,Shooting,0.0,1,0.0,1,4.0,1
+872,2028,IND,Swimming,0.0,0,0.0,0,0.0,0
+873,2028,IND,Table Tennis,0.0,0,0.0,0,0.0,0
+874,2028,IND,Tennis,0.0,0,0.0,0,0.0,0
+875,2028,IND,Weightlifting,0.0,0,0.0,0,0.0,0
+876,2028,IND,Wrestling,0.0,0,0.0,0,1.0,0
+877,2028,IRI,Archery,0.0,0,0.0,0,0.0,0
+878,2028,IRI,Athletics,0.0,0,0.0,0,0.0,0
+879,2028,IRI,Canoe Sprint,0.0,0,0.0,0,0.0,0
+880,2028,IRI,Cycling Road,0.0,0,0.0,0,0.0,0
+881,2028,IRI,Fencing,0.0,0,0.0,0,0.0,0
+882,2028,IRI,Rowing,0.0,0,0.0,0,0.0,0
+883,2028,IRI,Shooting,0.0,0,0.0,0,0.0,0
+884,2028,IRI,Swimming,0.0,0,0.0,0,0.0,0
+885,2028,IRI,Table Tennis,0.0,0,0.0,0,0.0,0
+886,2028,IRI,Taekwondo,1.0,1,2.0,1,1.0,1
+887,2028,IRI,Weightlifting,0.0,0,0.0,0,0.0,0
+888,2028,IRI,Wrestling,2.0,2,4.0,2,2.0,2
+889,2028,IRL,Artistic Gymnastics,1.0,0,0.0,0,0.0,0
+890,2028,IRL,Athletics,0.0,0,0.0,1,0.0,1
+891,2028,IRL,Badminton,0.0,0,0.0,0,0.0,0
+892,2028,IRL,Boxing,1.0,0,0.0,0,0.0,0
+893,2028,IRL,Canoe Slalom,0.0,0,0.0,0,0.0,0
+894,2028,IRL,Cycling Road,0.0,0,0.0,0,0.0,0
+895,2028,IRL,Cycling Track,0.0,0,0.0,0,0.0,0
+896,2028,IRL,Diving,0.0,0,0.0,0,0.0,0
+897,2028,IRL,Equestrian,0.0,0,0.0,0,0.0,0
+898,2028,IRL,Golf,0.0,0,0.0,0,0.0,0
+899,2028,IRL,Hockey,0.0,1,0.0,1,0.0,2
+900,2028,IRL,Rowing,2.0,1,0.0,1,2.0,1
+901,2028,IRL,Rugby Sevens,0.0,0,0.0,0,0.0,0
+902,2028,IRL,Sailing,0.0,0,0.0,0,0.0,0
+903,2028,IRL,Swimming,0.0,0,0.0,0,1.0,0
+904,2028,IRL,Taekwondo,0.0,0,0.0,0,0.0,0
+905,2028,IRQ,Athletics,0.0,0,0.0,0,0.0,0
+906,2028,IRQ,Football,0.0,0,0.0,1,0.0,1
+907,2028,IRQ,Judo,0.0,0,0.0,0,0.0,0
+908,2028,IRQ,Swimming,0.0,0,0.0,0,0.0,0
+909,2028,IRQ,Weightlifting,0.0,0,0.0,0,0.0,0
+910,2028,ISL,Athletics,0.0,0,0.0,0,0.0,0
+911,2028,ISL,Shooting,0.0,0,0.0,0,0.0,0
+912,2028,ISL,Swimming,0.0,0,0.0,0,0.0,0
+913,2028,ISR,Archery,0.0,0,0.0,0,0.0,0
+914,2028,ISR,Artistic Gymnastics,0.0,0,1.0,0,0.0,0
+915,2028,ISR,Artistic Swimming,0.0,0,0.0,0,0.0,0
+916,2028,ISR,Athletics,0.0,0,0.0,0,0.0,0
+917,2028,ISR,Badminton,0.0,0,0.0,0,0.0,0
+918,2028,ISR,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+919,2028,ISR,Cycling Road,0.0,0,0.0,0,0.0,0
+920,2028,ISR,Equestrian,0.0,0,0.0,0,0.0,0
+921,2028,ISR,Fencing,0.0,0,0.0,0,0.0,0
+922,2028,ISR,Football,0.0,0,0.0,1,0.0,1
+923,2028,ISR,Judo,0.0,0,2.0,1,1.0,1
+924,2028,ISR,Marathon Swimming,0.0,0,0.0,0,0.0,0
+925,2028,ISR,Rhythmic Gymnastics,0.0,1,5.0,1,0.0,1
+926,2028,ISR,Sailing,1.0,0,1.0,0,0.0,0
+927,2028,ISR,Shooting,0.0,0,0.0,0,0.0,0
+928,2028,ISR,Surfing,0.0,0,0.0,0,0.0,0
+929,2028,ISR,Swimming,0.0,0,0.0,0,0.0,0
+930,2028,ISR,Taekwondo,0.0,0,0.0,0,0.0,0
+931,2028,ISR,Triathlon,0.0,0,0.0,0,0.0,0
+932,2028,ISV,Archery,0.0,0,0.0,0,0.0,0
+933,2028,ISV,Athletics,0.0,0,0.0,0,0.0,0
+934,2028,ISV,Fencing,0.0,0,0.0,0,0.0,0
+935,2028,ISV,Swimming,0.0,0,0.0,0,0.0,0
+936,2028,ITA,Archery,0.0,0,0.0,0,0.0,0
+937,2028,ITA,Artistic Gymnastics,1.0,2,5.0,2,1.0,2
+938,2028,ITA,Artistic Swimming,0.0,0,0.0,0,0.0,0
+939,2028,ITA,Athletics,0.0,1,1.0,2,2.0,2
+940,2028,ITA,Badminton,0.0,0,0.0,0,0.0,0
+941,2028,ITA,Beach Volleyball,0.0,0,0.0,0,0.0,0
+942,2028,ITA,Boxing,0.0,0,0.0,0,0.0,0
+943,2028,ITA,Canoe Slalom,1.0,0,0.0,0,0.0,0
+944,2028,ITA,Canoe Sprint,0.0,0,2.0,0,0.0,0
+945,2028,ITA,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+946,2028,ITA,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+947,2028,ITA,Cycling Road,0.0,0,0.0,0,0.0,0
+948,2028,ITA,Cycling Track,2.0,2,1.0,2,4.0,2
+949,2028,ITA,Diving,0.0,0,0.0,0,0.0,0
+950,2028,ITA,Equestrian,0.0,0,0.0,0,0.0,0
+951,2028,ITA,Fencing,4.0,4,9.0,3,1.0,4
+952,2028,ITA,Golf,0.0,0,0.0,0,0.0,0
+953,2028,ITA,Judo,1.0,0,0.0,0,0.0,0
+954,2028,ITA,Marathon Swimming,0.0,0,0.0,0,0.0,0
+955,2028,ITA,Modern Pentathlon,0.0,0,0.0,0,1.0,0
+956,2028,ITA,Rhythmic Gymnastics,0.0,1,0.0,1,6.0,1
+957,2028,ITA,Rowing,0.0,1,6.0,2,0.0,2
+958,2028,ITA,Sailing,3.0,1,0.0,1,0.0,1
+959,2028,ITA,Shooting,2.0,1,2.0,1,1.0,1
+960,2028,ITA,Skateboarding,0.0,0,0.0,0,0.0,0
+961,2028,ITA,Sport Climbing,0.0,0,0.0,0,0.0,0
+962,2028,ITA,Surfing,0.0,0,0.0,0,0.0,0
+963,2028,ITA,Swimming,2.0,2,0.0,2,6.0,2
+964,2028,ITA,Table Tennis,0.0,0,0.0,0,0.0,0
+965,2028,ITA,Taekwondo,0.0,0,0.0,0,1.0,0
+966,2028,ITA,Tennis,2.0,1,0.0,1,1.0,1
+967,2028,ITA,Triathlon,0.0,0,0.0,0,0.0,0
+968,2028,ITA,Volleyball,13.0,5,0.0,3,0.0,3
+969,2028,ITA,Water Polo,0.0,0,0.0,0,0.0,0
+970,2028,ITA,Weightlifting,0.0,0,0.0,0,1.0,0
+971,2028,ITA,Wrestling,0.0,0,0.0,0,0.0,0
+972,2028,IVB,Athletics,0.0,0,0.0,0,0.0,0
+973,2028,IVB,Sailing,0.0,0,0.0,0,0.0,0
+974,2028,JAM,Athletics,1.0,2,3.0,3,2.0,3
+975,2028,JAM,Diving,0.0,0,0.0,0,0.0,0
+976,2028,JAM,Judo,0.0,0,0.0,0,0.0,0
+977,2028,JAM,Swimming,0.0,0,0.0,0,0.0,0
+978,2028,JOR,Athletics,0.0,0,0.0,0,0.0,0
+979,2028,JOR,Boxing,0.0,0,0.0,0,0.0,0
+980,2028,JOR,Swimming,0.0,0,0.0,0,0.0,0
+981,2028,JOR,Table Tennis,0.0,0,0.0,0,0.0,0
+982,2028,JOR,Taekwondo,0.0,0,1.0,0,0.0,0
+983,2028,JPN,Archery,0.0,0,0.0,0,0.0,0
+984,2028,JPN,Artistic Gymnastics,7.0,3,0.0,2,1.0,2
+985,2028,JPN,Artistic Swimming,0.0,0,0.0,0,0.0,0
+986,2028,JPN,Athletics,1.0,1,0.0,2,0.0,2
+987,2028,JPN,Badminton,0.0,1,0.0,1,4.0,1
+988,2028,JPN,Basketball,0.0,0,0.0,1,0.0,1
+989,2028,JPN,Beach Volleyball,0.0,0,0.0,0,0.0,0
+990,2028,JPN,Boxing,0.0,0,0.0,0,0.0,0
+991,2028,JPN,Canoe Slalom,0.0,0,0.0,0,0.0,0
+992,2028,JPN,Cycling BMX Freestyle,0.0,0,0.0,0,0.0,0
+993,2028,JPN,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+994,2028,JPN,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+995,2028,JPN,Cycling Road,0.0,0,0.0,0,0.0,0
+996,2028,JPN,Cycling Track,0.0,0,0.0,0,0.0,0
+997,2028,JPN,Diving,0.0,0,1.0,0,0.0,0
+998,2028,JPN,Equestrian,0.0,0,0.0,1,4.0,1
+999,2028,JPN,Fencing,5.0,4,4.0,3,8.0,3
+1000,2028,JPN,Football,0.0,1,0.0,2,0.0,2
+1001,2028,JPN,Golf,0.0,0,0.0,0,1.0,0
+1002,2028,JPN,Handball,0.0,1,0.0,2,0.0,2
+1003,2028,JPN,Hockey,0.0,1,0.0,2,0.0,2
+1004,2028,JPN,Judo,3.0,4,15.0,4,3.0,4
+1005,2028,JPN,Marathon Swimming,0.0,0,0.0,0,0.0,0
+1006,2028,JPN,Modern Pentathlon,0.0,0,1.0,0,0.0,0
+1007,2028,JPN,Rowing,0.0,0,0.0,0,0.0,0
+1008,2028,JPN,Rugby Sevens,0.0,0,0.0,1,0.0,1
+1009,2028,JPN,Sailing,0.0,0,2.0,1,0.0,1
+1010,2028,JPN,Shooting,0.0,0,0.0,0,0.0,0
+1011,2028,JPN,Skateboarding,2.0,1,2.0,1,0.0,1
+1012,2028,JPN,Sport Climbing,0.0,0,1.0,0,0.0,0
+1013,2028,JPN,Surfing,0.0,0,0.0,0,0.0,0
+1014,2028,JPN,Swimming,0.0,1,1.0,2,0.0,2
+1015,2028,JPN,Table Tennis,0.0,0,3.0,1,1.0,1
+1016,2028,JPN,Tennis,0.0,0,0.0,0,0.0,0
+1017,2028,JPN,Trampoline Gymnastics,0.0,0,0.0,0,0.0,0
+1018,2028,JPN,Triathlon,0.0,0,0.0,0,0.0,0
+1019,2028,JPN,Volleyball,0.0,0,0.0,1,0.0,1
+1020,2028,JPN,Water Polo,0.0,0,0.0,1,0.0,1
+1021,2028,JPN,Weightlifting,0.0,0,0.0,0,0.0,0
+1022,2028,JPN,Wrestling,8.0,3,1.0,2,2.0,2
+1023,2028,KAZ,Archery,0.0,0,0.0,0,0.0,0
+1024,2028,KAZ,Artistic Gymnastics,0.0,0,1.0,0,0.0,0
+1025,2028,KAZ,Athletics,0.0,0,0.0,0,0.0,0
+1026,2028,KAZ,Boxing,0.0,0,1.0,0,1.0,0
+1027,2028,KAZ,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1028,2028,KAZ,Cycling Road,0.0,0,0.0,0,0.0,0
+1029,2028,KAZ,Cycling Track,0.0,0,0.0,0,0.0,0
+1030,2028,KAZ,Fencing,0.0,0,0.0,0,0.0,0
+1031,2028,KAZ,Judo,1.0,0,0.0,0,1.0,0
+1032,2028,KAZ,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1033,2028,KAZ,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+1034,2028,KAZ,Rowing,0.0,0,0.0,0,0.0,0
+1035,2028,KAZ,Shooting,0.0,0,0.0,0,2.0,0
+1036,2028,KAZ,Sport Climbing,0.0,0,0.0,0,0.0,0
+1037,2028,KAZ,Swimming,0.0,0,0.0,0,0.0,0
+1038,2028,KAZ,Table Tennis,0.0,0,0.0,0,0.0,0
+1039,2028,KAZ,Taekwondo,0.0,0,0.0,0,0.0,0
+1040,2028,KAZ,Tennis,0.0,0,0.0,0,0.0,0
+1041,2028,KAZ,Triathlon,0.0,0,0.0,0,0.0,0
+1042,2028,KAZ,Wrestling,0.0,0,1.0,0,0.0,0
+1043,2028,KEN,Athletics,4.0,3,2.0,3,5.0,4
+1044,2028,KEN,Judo,0.0,0,0.0,0,0.0,0
+1045,2028,KEN,Rugby Sevens,0.0,0,0.0,1,0.0,1
+1046,2028,KEN,Swimming,0.0,0,0.0,0,0.0,0
+1047,2028,KEN,Volleyball,0.0,0,0.0,0,0.0,1
+1048,2028,KGZ,Athletics,0.0,0,0.0,0,0.0,0
+1049,2028,KGZ,Boxing,0.0,0,1.0,0,0.0,0
+1050,2028,KGZ,Judo,0.0,0,0.0,0,0.0,0
+1051,2028,KGZ,Swimming,0.0,0,0.0,0,0.0,0
+1052,2028,KGZ,Wrestling,0.0,1,1.0,1,4.0,1
+1053,2028,KIR,Athletics,0.0,0,0.0,0,0.0,0
+1054,2028,KIR,Judo,0.0,0,0.0,0,0.0,0
+1055,2028,KIR,Weightlifting,0.0,0,0.0,0,0.0,0
+1056,2028,KOR,Archery,10.0,4,1.0,2,1.0,2
+1057,2028,KOR,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1058,2028,KOR,Athletics,0.0,0,0.0,0,0.0,0
+1059,2028,KOR,Badminton,1.0,1,2.0,1,0.0,1
+1060,2028,KOR,Boxing,0.0,0,0.0,0,1.0,0
+1061,2028,KOR,Cycling Road,0.0,0,0.0,0,0.0,0
+1062,2028,KOR,Diving,0.0,0,0.0,0,0.0,0
+1063,2028,KOR,Equestrian,0.0,0,0.0,0,0.0,0
+1064,2028,KOR,Fencing,5.0,3,4.0,2,0.0,3
+1065,2028,KOR,Golf,0.0,0,0.0,0,0.0,0
+1066,2028,KOR,Handball,0.0,1,0.0,1,0.0,1
+1067,2028,KOR,Judo,0.0,2,2.0,2,13.0,3
+1068,2028,KOR,Modern Pentathlon,0.0,0,0.0,0,1.0,0
+1069,2028,KOR,Sailing,0.0,0,0.0,0,0.0,0
+1070,2028,KOR,Shooting,3.0,2,4.0,2,0.0,2
+1071,2028,KOR,Sport Climbing,0.0,0,0.0,0,0.0,0
+1072,2028,KOR,Swimming,0.0,0,0.0,0,1.0,1
+1073,2028,KOR,Table Tennis,0.0,1,0.0,1,5.0,1
+1074,2028,KOR,Taekwondo,2.0,1,0.0,1,1.0,1
+1075,2028,KOR,Weightlifting,0.0,0,1.0,0,0.0,0
+1076,2028,KOR,Wrestling,0.0,0,0.0,0,0.0,0
+1077,2028,KOS,Athletics,0.0,0,0.0,0,0.0,0
+1078,2028,KOS,Boxing,0.0,0,0.0,0,0.0,0
+1079,2028,KOS,Judo,0.0,0,1.0,0,1.0,0
+1080,2028,KOS,Swimming,0.0,0,0.0,0,0.0,0
+1081,2028,KSA,Athletics,0.0,0,0.0,0,0.0,0
+1082,2028,KSA,Swimming,0.0,0,0.0,0,0.0,0
+1083,2028,KSA,Taekwondo,0.0,0,0.0,0,0.0,0
+1084,2028,KUW,Athletics,0.0,0,0.0,0,0.0,0
+1085,2028,KUW,Fencing,0.0,0,0.0,0,0.0,0
+1086,2028,KUW,Rowing,0.0,0,0.0,0,0.0,0
+1087,2028,KUW,Shooting,0.0,0,0.0,0,0.0,0
+1088,2028,KUW,Swimming,0.0,0,0.0,0,0.0,0
+1089,2028,LAO,Athletics,0.0,0,0.0,0,0.0,0
+1090,2028,LAO,Swimming,0.0,0,0.0,0,0.0,0
+1091,2028,LAT,Archery,0.0,0,0.0,0,0.0,0
+1092,2028,LAT,Athletics,0.0,0,0.0,0,0.0,0
+1093,2028,LAT,Beach Volleyball,0.0,0,0.0,0,0.0,0
+1094,2028,LAT,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+1095,2028,LAT,Cycling Road,0.0,0,0.0,0,0.0,0
+1096,2028,LAT,Equestrian,0.0,0,0.0,0,0.0,0
+1097,2028,LAT,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1098,2028,LAT,Shooting,0.0,0,0.0,0,0.0,0
+1099,2028,LAT,Swimming,0.0,0,0.0,0,0.0,0
+1100,2028,LAT,Tennis,0.0,0,0.0,0,0.0,0
+1101,2028,LAT,Weightlifting,0.0,0,0.0,0,0.0,0
+1102,2028,LBA,Athletics,0.0,0,0.0,0,0.0,0
+1103,2028,LBA,Rowing,0.0,0,0.0,0,0.0,0
+1104,2028,LBA,Swimming,0.0,0,0.0,0,0.0,0
+1105,2028,LBA,Weightlifting,0.0,0,0.0,0,0.0,0
+1106,2028,LBI,Judo,0.0,0,0.0,0,0.0,0
+1107,2028,LBI,Shooting,0.0,0,0.0,0,0.0,0
+1108,2028,LBI,Swimming,0.0,0,0.0,0,0.0,0
+1109,2028,LBR,Athletics,0.0,0,0.0,0,0.0,0
+1110,2028,LCA,Athletics,1.0,0,1.0,0,0.0,0
+1111,2028,LCA,Sailing,0.0,0,0.0,0,0.0,0
+1112,2028,LCA,Swimming,0.0,0,0.0,0,0.0,0
+1113,2028,LES,Athletics,0.0,0,0.0,0,0.0,0
+1114,2028,LES,Taekwondo,0.0,0,0.0,0,0.0,0
+1115,2028,LTU,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1116,2028,LTU,Athletics,0.0,0,1.0,0,0.0,0
+1117,2028,LTU,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1118,2028,LTU,Cycling Road,0.0,0,0.0,0,0.0,0
+1119,2028,LTU,Cycling Track,0.0,0,0.0,0,0.0,0
+1120,2028,LTU,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1121,2028,LTU,Rowing,0.0,0,0.0,0,1.0,0
+1122,2028,LTU,Sailing,0.0,0,0.0,0,0.0,0
+1123,2028,LTU,Swimming,0.0,0,0.0,0,0.0,0
+1124,2028,LTU,Wrestling,0.0,0,0.0,0,0.0,0
+1125,2028,LUX,Archery,0.0,0,0.0,0,0.0,0
+1126,2028,LUX,Athletics,0.0,0,0.0,0,0.0,0
+1127,2028,LUX,Cycling Road,0.0,0,0.0,0,0.0,0
+1128,2028,LUX,Equestrian,0.0,0,0.0,0,0.0,0
+1129,2028,LUX,Swimming,0.0,0,0.0,0,0.0,0
+1130,2028,LUX,Table Tennis,0.0,0,0.0,0,0.0,0
+1131,2028,LUX,Triathlon,0.0,0,0.0,0,0.0,0
+1132,2028,MAD,Athletics,0.0,0,0.0,0,0.0,0
+1133,2028,MAD,Judo,0.0,0,0.0,0,0.0,0
+1134,2028,MAD,Swimming,0.0,0,0.0,0,0.0,0
+1135,2028,MAD,Weightlifting,0.0,0,0.0,0,0.0,0
+1136,2028,MAR,Athletics,1.0,1,0.0,1,0.0,1
+1137,2028,MAR,Beach Volleyball,0.0,0,0.0,0,0.0,0
+1138,2028,MAR,Boxing,0.0,0,0.0,0,0.0,0
+1139,2028,MAR,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1140,2028,MAR,Cycling Road,0.0,0,0.0,0,0.0,0
+1141,2028,MAR,Equestrian,0.0,0,0.0,0,0.0,0
+1142,2028,MAR,Fencing,0.0,0,0.0,0,0.0,0
+1143,2028,MAR,Football,0.0,3,0.0,3,19.0,3
+1144,2028,MAR,Golf,0.0,0,0.0,0,0.0,0
+1145,2028,MAR,Judo,0.0,0,0.0,0,0.0,0
+1146,2028,MAR,Rowing,0.0,0,0.0,0,0.0,0
+1147,2028,MAR,Shooting,0.0,0,0.0,0,0.0,0
+1148,2028,MAR,Surfing,0.0,0,0.0,0,0.0,0
+1149,2028,MAR,Swimming,0.0,0,0.0,0,0.0,0
+1150,2028,MAR,Taekwondo,0.0,0,0.0,0,0.0,0
+1151,2028,MAR,Triathlon,0.0,0,0.0,0,0.0,0
+1152,2028,MAR,Wrestling,0.0,0,0.0,0,0.0,0
+1153,2028,MAS,Archery,0.0,0,0.0,0,0.0,0
+1154,2028,MAS,Athletics,0.0,0,0.0,0,0.0,0
+1155,2028,MAS,Badminton,0.0,0,0.0,1,3.0,1
+1156,2028,MAS,Cycling Track,0.0,0,0.0,0,0.0,0
+1157,2028,MAS,Diving,0.0,0,0.0,0,0.0,0
+1158,2028,MAS,Golf,0.0,0,0.0,0,0.0,0
+1159,2028,MAS,Sailing,0.0,0,0.0,0,0.0,0
+1160,2028,MAS,Shooting,0.0,0,0.0,0,0.0,0
+1161,2028,MAS,Swimming,0.0,0,0.0,0,0.0,0
+1162,2028,MAS,Weightlifting,0.0,0,0.0,0,0.0,0
+1163,2028,MAW,Athletics,0.0,0,0.0,0,0.0,0
+1164,2028,MAW,Swimming,0.0,0,0.0,0,0.0,0
+1165,2028,MDA,Archery,0.0,0,0.0,0,0.0,0
+1166,2028,MDA,Athletics,0.0,0,0.0,0,0.0,0
+1167,2028,MDA,Canoe Sprint,0.0,0,0.0,0,1.0,0
+1168,2028,MDA,Judo,0.0,0,0.0,0,2.0,0
+1169,2028,MDA,Shooting,0.0,0,0.0,0,0.0,0
+1170,2028,MDA,Swimming,0.0,0,0.0,0,0.0,0
+1171,2028,MDA,Weightlifting,0.0,0,0.0,0,0.0,0
+1172,2028,MDA,Wrestling,0.0,0,1.0,0,0.0,0
+1173,2028,MDV,Athletics,0.0,0,0.0,0,0.0,0
+1174,2028,MDV,Badminton,0.0,0,0.0,0,0.0,0
+1175,2028,MDV,Swimming,0.0,0,0.0,0,0.0,0
+1176,2028,MEX,Archery,0.0,0,0.0,0,3.0,0
+1177,2028,MEX,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1178,2028,MEX,Artistic Swimming,0.0,0,0.0,0,0.0,0
+1179,2028,MEX,Athletics,0.0,0,0.0,1,0.0,1
+1180,2028,MEX,Badminton,0.0,0,0.0,0,0.0,0
+1181,2028,MEX,Boxing,0.0,0,1.0,0,0.0,0
+1182,2028,MEX,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1183,2028,MEX,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1184,2028,MEX,Cycling Road,0.0,0,0.0,0,0.0,0
+1185,2028,MEX,Cycling Track,0.0,0,0.0,0,0.0,0
+1186,2028,MEX,Diving,0.0,1,2.0,1,1.0,1
+1187,2028,MEX,Equestrian,0.0,0,0.0,0,0.0,0
+1188,2028,MEX,Fencing,0.0,0,0.0,0,0.0,0
+1189,2028,MEX,Golf,0.0,0,0.0,0,0.0,0
+1190,2028,MEX,Judo,0.0,0,1.0,0,0.0,0
+1191,2028,MEX,Marathon Swimming,0.0,0,0.0,0,0.0,0
+1192,2028,MEX,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1193,2028,MEX,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+1194,2028,MEX,Rowing,0.0,0,0.0,0,0.0,0
+1195,2028,MEX,Sailing,0.0,0,0.0,0,0.0,0
+1196,2028,MEX,Shooting,0.0,0,0.0,0,0.0,0
+1197,2028,MEX,Swimming,0.0,0,0.0,0,0.0,0
+1198,2028,MEX,Table Tennis,0.0,0,0.0,0,0.0,0
+1199,2028,MEX,Taekwondo,0.0,0,0.0,0,0.0,0
+1200,2028,MEX,Triathlon,0.0,0,0.0,0,0.0,0
+1201,2028,MEX,Weightlifting,0.0,0,0.0,0,0.0,0
+1202,2028,MEX,Wrestling,0.0,0,0.0,0,0.0,0
+1203,2028,MGL,Archery,0.0,0,0.0,0,0.0,0
+1204,2028,MGL,Athletics,0.0,0,0.0,0,0.0,0
+1205,2028,MGL,Boxing,0.0,0,0.0,0,0.0,0
+1206,2028,MGL,Judo,0.0,0,1.0,1,0.0,1
+1207,2028,MGL,Shooting,0.0,0,0.0,0,0.0,0
+1208,2028,MGL,Swimming,0.0,0,0.0,0,0.0,0
+1209,2028,MGL,Weightlifting,0.0,0,0.0,0,0.0,0
+1210,2028,MGL,Wrestling,0.0,0,0.0,0,0.0,0
+1211,2028,MHL,Athletics,0.0,0,0.0,0,0.0,0
+1212,2028,MHL,Swimming,0.0,0,0.0,0,0.0,0
+1213,2028,MHL,Weightlifting,0.0,0,0.0,0,0.0,0
+1214,2028,MKD,Athletics,0.0,0,0.0,0,0.0,0
+1215,2028,MKD,Judo,0.0,0,0.0,0,0.0,0
+1216,2028,MKD,Shooting,0.0,0,0.0,0,0.0,0
+1217,2028,MKD,Swimming,0.0,0,0.0,0,0.0,0
+1218,2028,MKD,Taekwondo,0.0,0,0.0,0,0.0,0
+1219,2028,MKD,Wrestling,0.0,0,0.0,0,0.0,0
+1220,2028,MLI,Athletics,0.0,0,0.0,0,0.0,0
+1221,2028,MLI,Boxing,0.0,0,0.0,0,0.0,0
+1222,2028,MLI,Football,0.0,0,0.0,1,0.0,1
+1223,2028,MLI,Swimming,0.0,0,0.0,0,0.0,0
+1224,2028,MLI,Taekwondo,0.0,0,0.0,0,0.0,0
+1225,2028,MLT,Athletics,0.0,0,0.0,0,0.0,0
+1226,2028,MLT,Judo,0.0,0,0.0,0,0.0,0
+1227,2028,MLT,Shooting,0.0,0,0.0,0,0.0,0
+1228,2028,MLT,Swimming,0.0,0,0.0,0,0.0,0
+1229,2028,MNE,Athletics,0.0,0,0.0,0,0.0,0
+1230,2028,MNE,Boxing,0.0,0,0.0,0,0.0,0
+1231,2028,MNE,Sailing,0.0,0,0.0,0,0.0,0
+1232,2028,MNE,Swimming,0.0,0,0.0,0,0.0,0
+1233,2028,MNE,Tennis,0.0,0,0.0,0,0.0,0
+1234,2028,MNE,Water Polo,0.0,0,0.0,0,0.0,0
+1235,2028,MON,Athletics,0.0,0,0.0,0,0.0,0
+1236,2028,MON,Judo,0.0,0,0.0,0,0.0,0
+1237,2028,MON,Rowing,0.0,0,0.0,0,0.0,0
+1238,2028,MON,Swimming,0.0,0,0.0,0,0.0,0
+1239,2028,MON,Table Tennis,0.0,0,0.0,0,0.0,0
+1240,2028,MOZ,Athletics,0.0,0,0.0,0,0.0,0
+1241,2028,MOZ,Boxing,0.0,0,0.0,0,0.0,0
+1242,2028,MOZ,Judo,0.0,0,0.0,0,0.0,0
+1243,2028,MOZ,Sailing,0.0,0,0.0,0,0.0,0
+1244,2028,MOZ,Swimming,0.0,0,0.0,0,0.0,0
+1245,2028,MRI,Athletics,0.0,0,0.0,0,0.0,0
+1246,2028,MRI,Badminton,0.0,0,0.0,0,0.0,0
+1247,2028,MRI,Judo,0.0,0,0.0,0,0.0,0
+1248,2028,MRI,Sailing,0.0,0,0.0,0,0.0,0
+1249,2028,MRI,Swimming,0.0,0,0.0,0,0.0,0
+1250,2028,MRI,Triathlon,0.0,0,0.0,0,0.0,0
+1251,2028,MTN,Athletics,0.0,0,0.0,0,0.0,0
+1252,2028,MYA,Badminton,0.0,0,0.0,0,0.0,0
+1253,2028,MYA,Swimming,0.0,0,0.0,0,0.0,0
+1254,2028,NAM,Athletics,0.0,0,0.0,0,0.0,0
+1255,2028,NAM,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1256,2028,NAM,Cycling Road,0.0,0,0.0,0,0.0,0
+1257,2028,NAM,Marathon Swimming,0.0,0,0.0,0,0.0,0
+1258,2028,NCA,Athletics,0.0,0,0.0,0,0.0,0
+1259,2028,NCA,Judo,0.0,0,0.0,0,0.0,0
+1260,2028,NCA,Rowing,0.0,0,0.0,0,0.0,0
+1261,2028,NCA,Shooting,0.0,0,0.0,0,0.0,0
+1262,2028,NCA,Swimming,0.0,0,0.0,0,0.0,0
+1263,2028,NED,Archery,4.0,1,0.0,1,0.0,1
+1264,2028,NED,Archery,0.0,0,0.0,0,0.0,0
+1265,2028,NED,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1266,2028,NED,Artistic Swimming,0.0,0,0.0,0,2.0,0
+1267,2028,NED,Athletics,7.0,5,7.0,4,3.0,4
+1268,2028,NED,Badminton,0.0,0,0.0,0,0.0,0
+1269,2028,NED,Beach Volleyball,0.0,0,0.0,0,0.0,0
+1270,2028,NED,Boxing,0.0,0,0.0,0,0.0,0
+1271,2028,NED,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1272,2028,NED,Cycling BMX Racing,0.0,0,1.0,0,0.0,0
+1273,2028,NED,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1274,2028,NED,Cycling Road,0.0,0,1.0,0,0.0,0
+1275,2028,NED,Cycling Track,6.0,3,1.0,2,2.0,2
+1276,2028,NED,Diving,0.0,0,0.0,0,0.0,0
+1277,2028,NED,Equestrian,0.0,0,0.0,0,1.0,0
+1278,2028,NED,Fencing,0.0,0,0.0,0,0.0,0
+1279,2028,NED,Golf,0.0,0,0.0,0,0.0,0
+1280,2028,NED,Handball,0.0,1,0.0,1,0.0,1
+1281,2028,NED,Hockey,35.0,23,0.0,7,0.0,8
+1282,2028,NED,Judo,0.0,0,0.0,0,0.0,0
+1283,2028,NED,Marathon Swimming,1.0,0,0.0,0,0.0,0
+1284,2028,NED,Rowing,11.0,8,15.0,6,1.0,6
+1285,2028,NED,Sailing,3.0,1,0.0,1,2.0,1
+1286,2028,NED,Skateboarding,0.0,0,0.0,0,0.0,0
+1287,2028,NED,Swimming,0.0,0,0.0,1,2.0,1
+1288,2028,NED,Table Tennis,0.0,0,0.0,0,0.0,0
+1289,2028,NED,Tennis,0.0,0,0.0,0,0.0,0
+1290,2028,NED,Triathlon,0.0,0,0.0,0,0.0,0
+1291,2028,NED,Volleyball,0.0,0,0.0,0,0.0,1
+1292,2028,NED,Water Polo,0.0,2,0.0,2,13.0,2
+1293,2028,NEP,Athletics,0.0,0,0.0,0,0.0,0
+1294,2028,NEP,Judo,0.0,0,0.0,0,0.0,0
+1295,2028,NEP,Shooting,0.0,0,0.0,0,0.0,0
+1296,2028,NEP,Swimming,0.0,0,0.0,0,0.0,0
+1297,2028,NGR,Athletics,0.0,0,0.0,0,0.0,0
+1298,2028,NGR,Badminton,0.0,0,0.0,0,0.0,0
+1299,2028,NGR,Basketball,0.0,0,0.0,1,0.0,1
+1300,2028,NGR,Boxing,0.0,0,0.0,0,0.0,0
+1301,2028,NGR,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1302,2028,NGR,Football,0.0,1,0.0,1,0.0,1
+1303,2028,NGR,Swimming,0.0,0,0.0,0,0.0,0
+1304,2028,NGR,Table Tennis,0.0,0,0.0,0,0.0,0
+1305,2028,NGR,Taekwondo,0.0,0,0.0,0,0.0,0
+1306,2028,NGR,Weightlifting,0.0,0,0.0,0,0.0,0
+1307,2028,NGR,Wrestling,0.0,0,0.0,0,0.0,0
+1308,2028,NIG,Athletics,0.0,0,0.0,0,0.0,0
+1309,2028,NIG,Judo,0.0,0,0.0,0,0.0,0
+1310,2028,NIG,Swimming,0.0,0,0.0,0,0.0,0
+1311,2028,NIG,Taekwondo,0.0,0,0.0,0,0.0,0
+1312,2028,NOR,Athletics,2.0,1,1.0,1,0.0,1
+1313,2028,NOR,Beach Volleyball,0.0,0,0.0,0,2.0,0
+1314,2028,NOR,Boxing,0.0,0,0.0,0,0.0,0
+1315,2028,NOR,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1316,2028,NOR,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1317,2028,NOR,Cycling Road,0.0,0,0.0,0,0.0,0
+1318,2028,NOR,Cycling Track,0.0,0,0.0,0,0.0,0
+1319,2028,NOR,Diving,0.0,0,0.0,0,0.0,0
+1320,2028,NOR,Equestrian,0.0,0,0.0,0,0.0,0
+1321,2028,NOR,Golf,0.0,0,0.0,0,0.0,0
+1322,2028,NOR,Handball,15.0,6,0.0,4,0.0,4
+1323,2028,NOR,Rowing,0.0,0,0.0,0,0.0,0
+1324,2028,NOR,Sailing,0.0,0,0.0,0,1.0,0
+1325,2028,NOR,Shooting,0.0,0,0.0,0,0.0,0
+1326,2028,NOR,Swimming,0.0,0,0.0,0,0.0,0
+1327,2028,NOR,Taekwondo,0.0,0,0.0,0,0.0,0
+1328,2028,NOR,Tennis,0.0,0,0.0,0,0.0,0
+1329,2028,NOR,Triathlon,0.0,0,0.0,0,0.0,0
+1330,2028,NOR,Weightlifting,1.0,0,0.0,0,0.0,0
+1331,2028,NOR,Wrestling,0.0,0,0.0,0,1.0,0
+1332,2028,NRU,Athletics,0.0,0,0.0,0,0.0,0
+1333,2028,NZL,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1334,2028,NZL,Athletics,1.0,1,1.0,1,0.0,1
+1335,2028,NZL,Canoe Slalom,1.0,0,0.0,0,0.0,0
+1336,2028,NZL,Canoe Sprint,7.0,3,0.0,2,0.0,2
+1337,2028,NZL,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+1338,2028,NZL,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1339,2028,NZL,Cycling Road,0.0,0,0.0,0,0.0,0
+1340,2028,NZL,Cycling Track,2.0,2,9.0,3,1.0,3
+1341,2028,NZL,Diving,0.0,0,0.0,0,0.0,0
+1342,2028,NZL,Equestrian,0.0,0,0.0,0,0.0,0
+1343,2028,NZL,Football,0.0,1,0.0,2,0.0,2
+1344,2028,NZL,Golf,1.0,0,0.0,0,0.0,0
+1345,2028,NZL,Hockey,0.0,1,0.0,2,0.0,2
+1346,2028,NZL,Judo,0.0,0,0.0,0,0.0,0
+1347,2028,NZL,Rowing,2.0,3,5.0,3,4.0,3
+1348,2028,NZL,Rugby Sevens,12.0,4,0.0,3,0.0,3
+1349,2028,NZL,Sailing,0.0,1,2.0,1,2.0,1
+1350,2028,NZL,Shooting,0.0,0,0.0,0,0.0,0
+1351,2028,NZL,Surfing,0.0,0,0.0,0,0.0,0
+1352,2028,NZL,Swimming,0.0,0,0.0,0,0.0,0
+1353,2028,NZL,Tennis,0.0,0,0.0,0,0.0,0
+1354,2028,NZL,Trampoline Gymnastics,0.0,0,0.0,0,0.0,0
+1355,2028,NZL,Triathlon,0.0,0,1.0,0,0.0,0
+1356,2028,NZL,Weightlifting,0.0,0,0.0,0,0.0,0
+1357,2028,NZL,Wrestling,0.0,0,0.0,0,0.0,0
+1358,2028,OMA,Athletics,0.0,0,0.0,0,0.0,0
+1359,2028,OMA,Shooting,0.0,0,0.0,0,0.0,0
+1360,2028,OMA,Swimming,0.0,0,0.0,0,0.0,0
+1361,2028,PAK,Athletics,1.0,0,0.0,0,0.0,0
+1362,2028,PAK,Shooting,0.0,0,0.0,0,0.0,0
+1363,2028,PAK,Swimming,0.0,0,0.0,0,0.0,0
+1364,2028,PAN,Athletics,0.0,0,0.0,0,0.0,0
+1365,2028,PAN,Boxing,0.0,0,1.0,0,0.0,0
+1366,2028,PAN,Cycling Road,0.0,0,0.0,0,0.0,0
+1367,2028,PAN,Judo,0.0,0,0.0,0,0.0,0
+1368,2028,PAN,Swimming,0.0,0,0.0,0,0.0,0
+1369,2028,PAR,Athletics,0.0,0,0.0,0,0.0,0
+1370,2028,PAR,Football,0.0,0,0.0,1,0.0,1
+1371,2028,PAR,Golf,0.0,0,0.0,0,0.0,0
+1372,2028,PAR,Judo,0.0,0,0.0,0,0.0,0
+1373,2028,PAR,Rowing,0.0,0,0.0,0,0.0,0
+1374,2028,PAR,Swimming,0.0,0,0.0,0,0.0,0
+1375,2028,PER,Athletics,0.0,0,0.0,0,0.0,0
+1376,2028,PER,Badminton,0.0,0,0.0,0,0.0,0
+1377,2028,PER,Fencing,0.0,0,0.0,0,0.0,0
+1378,2028,PER,Judo,0.0,0,0.0,0,0.0,0
+1379,2028,PER,Rowing,0.0,0,0.0,0,0.0,0
+1380,2028,PER,Sailing,0.0,0,0.0,0,1.0,0
+1381,2028,PER,Shooting,0.0,0,0.0,0,0.0,0
+1382,2028,PER,Surfing,0.0,0,0.0,0,0.0,0
+1383,2028,PER,Swimming,0.0,0,0.0,0,0.0,0
+1384,2028,PHI,Artistic Gymnastics,2.0,1,0.0,0,0.0,0
+1385,2028,PHI,Athletics,0.0,0,0.0,0,0.0,0
+1386,2028,PHI,Boxing,0.0,0,0.0,0,2.0,0
+1387,2028,PHI,Fencing,0.0,0,0.0,0,0.0,0
+1388,2028,PHI,Golf,0.0,0,0.0,0,0.0,0
+1389,2028,PHI,Judo,0.0,0,0.0,0,0.0,0
+1390,2028,PHI,Rowing,0.0,0,0.0,0,0.0,0
+1391,2028,PHI,Swimming,0.0,0,0.0,0,0.0,0
+1392,2028,PHI,Weightlifting,0.0,0,0.0,0,0.0,0
+1393,2028,PLE,Athletics,0.0,0,0.0,0,0.0,0
+1394,2028,PLE,Judo,0.0,0,0.0,0,0.0,0
+1395,2028,PLE,Swimming,0.0,0,0.0,0,0.0,0
+1396,2028,PLW,Athletics,0.0,0,0.0,0,0.0,0
+1397,2028,PLW,Swimming,0.0,0,0.0,0,0.0,0
+1398,2028,PNG,Athletics,0.0,0,0.0,0,0.0,0
+1399,2028,PNG,Boxing,0.0,0,0.0,0,0.0,0
+1400,2028,PNG,Swimming,0.0,0,0.0,0,0.0,0
+1401,2028,PNG,Taekwondo,0.0,0,0.0,0,0.0,0
+1402,2028,PNG,Weightlifting,0.0,0,0.0,0,0.0,0
+1403,2028,POL,Archery,0.0,0,0.0,0,0.0,0
+1404,2028,POL,Archery,0.0,0,0.0,0,0.0,0
+1405,2028,POL,Athletics,0.0,1,0.0,2,1.0,2
+1406,2028,POL,Beach Volleyball,0.0,0,0.0,0,0.0,0
+1407,2028,POL,Boxing,0.0,0,1.0,0,0.0,0
+1408,2028,POL,Canoe Slalom,0.0,0,1.0,0,0.0,0
+1409,2028,POL,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1410,2028,POL,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1411,2028,POL,Cycling Road,0.0,0,0.0,0,0.0,0
+1412,2028,POL,Cycling Track,0.0,0,1.0,1,0.0,1
+1413,2028,POL,Diving,0.0,0,0.0,0,0.0,0
+1414,2028,POL,Equestrian,0.0,0,0.0,0,0.0,0
+1415,2028,POL,Fencing,0.0,0,0.0,1,4.0,1
+1416,2028,POL,Golf,0.0,0,0.0,0,0.0,0
+1417,2028,POL,Judo,0.0,0,0.0,0,0.0,0
+1418,2028,POL,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1419,2028,POL,Rowing,0.0,1,0.0,1,4.0,1
+1420,2028,POL,Sailing,0.0,0,0.0,0,0.0,0
+1421,2028,POL,Shooting,0.0,0,0.0,0,0.0,0
+1422,2028,POL,Sport Climbing,1.0,0,0.0,0,1.0,0
+1423,2028,POL,Swimming,0.0,0,0.0,1,0.0,1
+1424,2028,POL,Table Tennis,0.0,0,0.0,0,0.0,0
+1425,2028,POL,Tennis,0.0,0,0.0,0,1.0,0
+1426,2028,POL,Triathlon,0.0,0,0.0,0,0.0,0
+1427,2028,POL,Volleyball,0.0,2,13.0,3,0.0,3
+1428,2028,POL,Weightlifting,0.0,0,0.0,0,0.0,0
+1429,2028,POL,Wrestling,0.0,0,0.0,0,0.0,0
+1430,2028,POR,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1431,2028,POR,Athletics,0.0,0,1.0,1,0.0,1
+1432,2028,POR,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1433,2028,POR,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1434,2028,POR,Cycling Road,0.0,0,0.0,0,0.0,0
+1435,2028,POR,Cycling Track,2.0,1,1.0,1,0.0,1
+1436,2028,POR,Equestrian,0.0,0,0.0,0,0.0,0
+1437,2028,POR,Judo,0.0,0,0.0,0,1.0,0
+1438,2028,POR,Marathon Swimming,0.0,0,0.0,0,0.0,0
+1439,2028,POR,Sailing,0.0,0,0.0,0,0.0,0
+1440,2028,POR,Shooting,0.0,0,0.0,0,0.0,0
+1441,2028,POR,Skateboarding,0.0,0,0.0,0,0.0,0
+1442,2028,POR,Surfing,0.0,0,0.0,0,0.0,0
+1443,2028,POR,Swimming,0.0,0,0.0,0,0.0,0
+1444,2028,POR,Table Tennis,0.0,0,0.0,0,0.0,0
+1445,2028,POR,Tennis,0.0,0,0.0,0,0.0,0
+1446,2028,POR,Trampoline Gymnastics,0.0,0,0.0,0,0.0,0
+1447,2028,POR,Triathlon,0.0,0,0.0,0,0.0,0
+1448,2028,PRK,Athletics,0.0,0,0.0,0,0.0,0
+1449,2028,PRK,Boxing,0.0,0,0.0,0,1.0,0
+1450,2028,PRK,Diving,0.0,0,2.0,0,1.0,0
+1451,2028,PRK,Judo,0.0,0,0.0,0,0.0,0
+1452,2028,PRK,Table Tennis,0.0,0,2.0,0,0.0,0
+1453,2028,PRK,Wrestling,0.0,0,0.0,0,2.0,0
+1454,2028,PUR,Archery,0.0,0,0.0,0,0.0,0
+1455,2028,PUR,Athletics,0.0,0,0.0,0,1.0,0
+1456,2028,PUR,Basketball,0.0,0,0.0,0,0.0,1
+1457,2028,PUR,Boxing,0.0,0,0.0,0,0.0,0
+1458,2028,PUR,Diving,0.0,0,0.0,0,0.0,0
+1459,2028,PUR,Golf,0.0,0,0.0,0,0.0,0
+1460,2028,PUR,Judo,0.0,0,0.0,0,0.0,0
+1461,2028,PUR,Sailing,0.0,0,0.0,0,0.0,0
+1462,2028,PUR,Shooting,0.0,0,0.0,0,0.0,0
+1463,2028,PUR,Skateboarding,0.0,0,0.0,0,0.0,0
+1464,2028,PUR,Swimming,0.0,0,0.0,0,0.0,0
+1465,2028,PUR,Table Tennis,0.0,0,0.0,0,0.0,0
+1466,2028,PUR,Wrestling,0.0,0,0.0,0,1.0,0
+1467,2028,QAT,Athletics,0.0,0,0.0,0,1.0,0
+1468,2028,QAT,Beach Volleyball,0.0,0,0.0,0,0.0,0
+1469,2028,QAT,Shooting,0.0,0,0.0,0,0.0,0
+1470,2028,QAT,Swimming,0.0,0,0.0,0,0.0,0
+1471,2028,QAT,Weightlifting,0.0,0,0.0,0,0.0,0
+1472,2028,ROU,Archery,0.0,0,0.0,0,0.0,0
+1473,2028,ROU,Artistic Gymnastics,0.0,0,0.0,0,1.0,0
+1474,2028,ROU,Athletics,0.0,0,0.0,0,0.0,0
+1475,2028,ROU,Boxing,0.0,0,0.0,0,0.0,0
+1476,2028,ROU,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1477,2028,ROU,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1478,2028,ROU,Fencing,0.0,0,0.0,0,0.0,0
+1479,2028,ROU,Judo,0.0,0,0.0,0,0.0,0
+1480,2028,ROU,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+1481,2028,ROU,Rowing,11.0,6,6.0,4,0.0,4
+1482,2028,ROU,Sailing,0.0,0,0.0,0,0.0,0
+1483,2028,ROU,Swimming,1.0,0,0.0,0,1.0,0
+1484,2028,ROU,Table Tennis,0.0,0,0.0,0,0.0,0
+1485,2028,ROU,Tennis,0.0,0,0.0,0,0.0,0
+1486,2028,ROU,Triathlon,0.0,0,0.0,0,0.0,0
+1487,2028,ROU,Water Polo,0.0,0,0.0,0,0.0,0
+1488,2028,ROU,Weightlifting,0.0,0,1.0,0,0.0,0
+1489,2028,ROU,Wrestling,0.0,0,0.0,0,0.0,0
+1490,2028,RSA,Archery,0.0,0,0.0,0,0.0,0
+1491,2028,RSA,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1492,2028,RSA,Athletics,0.0,1,5.0,2,0.0,2
+1493,2028,RSA,Badminton,0.0,0,0.0,0,0.0,0
+1494,2028,RSA,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+1495,2028,RSA,Cycling Mountain Bike,0.0,0,0.0,0,1.0,0
+1496,2028,RSA,Cycling Road,0.0,0,0.0,0,0.0,0
+1497,2028,RSA,Cycling Track,0.0,0,0.0,0,0.0,0
+1498,2028,RSA,Diving,0.0,0,0.0,0,0.0,0
+1499,2028,RSA,Equestrian,0.0,0,0.0,0,0.0,0
+1500,2028,RSA,Fencing,0.0,0,0.0,0,0.0,0
+1501,2028,RSA,Golf,0.0,0,0.0,0,0.0,0
+1502,2028,RSA,Hockey,0.0,1,0.0,2,0.0,2
+1503,2028,RSA,Judo,0.0,0,0.0,0,0.0,0
+1504,2028,RSA,Rowing,0.0,0,0.0,0,0.0,0
+1505,2028,RSA,Rugby Sevens,0.0,2,0.0,2,13.0,2
+1506,2028,RSA,Skateboarding,0.0,0,0.0,0,0.0,0
+1507,2028,RSA,Sport Climbing,0.0,0,0.0,0,0.0,0
+1508,2028,RSA,Surfing,0.0,0,0.0,0,0.0,0
+1509,2028,RSA,Swimming,1.0,1,1.0,1,0.0,1
+1510,2028,RSA,Triathlon,0.0,0,0.0,0,0.0,0
+1511,2028,RSA,Wrestling,0.0,0,0.0,0,0.0,0
+1512,2028,RWA,Athletics,0.0,0,0.0,0,0.0,0
+1513,2028,RWA,Cycling Road,0.0,0,0.0,0,0.0,0
+1514,2028,RWA,Swimming,0.0,0,0.0,0,0.0,0
+1515,2028,SAM,Athletics,0.0,0,0.0,0,0.0,0
+1516,2028,SAM,Boxing,0.0,0,0.0,0,0.0,0
+1517,2028,SAM,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1518,2028,SAM,Judo,0.0,0,0.0,0,0.0,0
+1519,2028,SAM,Sailing,0.0,0,0.0,0,0.0,0
+1520,2028,SAM,Swimming,0.0,0,0.0,0,0.0,0
+1521,2028,SAM,Weightlifting,0.0,0,0.0,0,0.0,0
+1522,2028,SAM,Wrestling,0.0,0,0.0,0,0.0,0
+1523,2028,SEN,Athletics,0.0,0,0.0,0,0.0,0
+1524,2028,SEN,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1525,2028,SEN,Fencing,0.0,0,0.0,0,0.0,0
+1526,2028,SEN,Judo,0.0,0,0.0,0,0.0,0
+1527,2028,SEN,Swimming,0.0,0,0.0,0,0.0,0
+1528,2028,SEN,Table Tennis,0.0,0,0.0,0,0.0,0
+1529,2028,SEN,Taekwondo,0.0,0,0.0,0,0.0,0
+1530,2028,SEY,Athletics,0.0,0,0.0,0,0.0,0
+1531,2028,SEY,Swimming,0.0,0,0.0,0,0.0,0
+1532,2028,SGP,Athletics,0.0,0,0.0,0,0.0,0
+1533,2028,SGP,Badminton,0.0,0,0.0,0,0.0,0
+1534,2028,SGP,Equestrian,0.0,0,0.0,0,0.0,0
+1535,2028,SGP,Fencing,0.0,0,0.0,0,0.0,0
+1536,2028,SGP,Rowing,0.0,0,0.0,0,0.0,0
+1537,2028,SGP,Sailing,0.0,0,0.0,0,1.0,0
+1538,2028,SGP,Shooting,0.0,0,0.0,0,0.0,0
+1539,2028,SGP,Swimming,0.0,0,0.0,0,0.0,0
+1540,2028,SGP,Table Tennis,0.0,0,0.0,0,0.0,0
+1541,2028,SKN,Athletics,0.0,0,0.0,0,0.0,0
+1542,2028,SLE,Athletics,0.0,0,0.0,0,0.0,0
+1543,2028,SLE,Judo,0.0,0,0.0,0,0.0,0
+1544,2028,SLE,Swimming,0.0,0,0.0,0,0.0,0
+1545,2028,SLO,Archery,0.0,0,0.0,0,0.0,0
+1546,2028,SLO,Athletics,0.0,0,0.0,0,0.0,0
+1547,2028,SLO,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1548,2028,SLO,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1549,2028,SLO,Cycling Road,0.0,0,0.0,0,0.0,0
+1550,2028,SLO,Golf,0.0,0,0.0,0,0.0,0
+1551,2028,SLO,Handball,0.0,0,0.0,1,0.0,1
+1552,2028,SLO,Judo,1.0,0,0.0,0,0.0,0
+1553,2028,SLO,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+1554,2028,SLO,Rowing,0.0,0,0.0,0,0.0,0
+1555,2028,SLO,Sailing,0.0,0,1.0,0,0.0,0
+1556,2028,SLO,Sport Climbing,1.0,0,0.0,0,0.0,0
+1557,2028,SLO,Swimming,0.0,0,0.0,0,0.0,0
+1558,2028,SLO,Table Tennis,0.0,0,0.0,0,0.0,0
+1559,2028,SLO,Taekwondo,0.0,0,0.0,0,0.0,0
+1560,2028,SMR,Archery,0.0,0,0.0,0,0.0,0
+1561,2028,SMR,Athletics,0.0,0,0.0,0,0.0,0
+1562,2028,SMR,Shooting,0.0,0,0.0,0,0.0,0
+1563,2028,SMR,Swimming,0.0,0,0.0,0,0.0,0
+1564,2028,SMR,Wrestling,0.0,0,0.0,0,0.0,0
+1565,2028,SOL,Athletics,0.0,0,0.0,0,0.0,0
+1566,2028,SOL,Swimming,0.0,0,0.0,0,0.0,0
+1567,2028,SOM,Athletics,0.0,0,0.0,0,0.0,0
+1568,2028,SRB,Archery,0.0,0,0.0,0,0.0,0
+1569,2028,SRB,Athletics,0.0,0,0.0,0,0.0,0
+1570,2028,SRB,Basketball,0.0,1,0.0,2,12.0,2
+1571,2028,SRB,Boxing,0.0,0,0.0,0,0.0,0
+1572,2028,SRB,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1573,2028,SRB,Judo,0.0,0,0.0,0,0.0,0
+1574,2028,SRB,Rowing,0.0,0,0.0,0,0.0,0
+1575,2028,SRB,Shooting,2.0,1,0.0,0,0.0,0
+1576,2028,SRB,Swimming,0.0,0,0.0,0,0.0,0
+1577,2028,SRB,Table Tennis,0.0,0,0.0,0,0.0,0
+1578,2028,SRB,Taekwondo,0.0,0,1.0,0,0.0,0
+1579,2028,SRB,Tennis,1.0,0,0.0,0,0.0,0
+1580,2028,SRB,Volleyball,0.0,0,0.0,0,0.0,1
+1581,2028,SRB,Water Polo,13.0,5,0.0,3,0.0,3
+1582,2028,SRB,Wrestling,0.0,0,0.0,0,0.0,0
+1583,2028,SRI,Athletics,0.0,0,0.0,0,0.0,0
+1584,2028,SRI,Badminton,0.0,0,0.0,0,0.0,0
+1585,2028,SRI,Swimming,0.0,0,0.0,0,0.0,0
+1586,2028,SSD,Athletics,0.0,0,0.0,0,0.0,0
+1587,2028,STP,Athletics,0.0,0,0.0,0,0.0,0
+1588,2028,STP,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1589,2028,SUD,Athletics,0.0,0,0.0,0,0.0,0
+1590,2028,SUD,Rowing,0.0,0,0.0,0,0.0,0
+1591,2028,SUD,Swimming,0.0,0,0.0,0,0.0,0
+1592,2028,SUI,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1593,2028,SUI,Athletics,0.0,1,0.0,2,0.0,2
+1594,2028,SUI,Badminton,0.0,0,0.0,0,0.0,0
+1595,2028,SUI,Beach Volleyball,0.0,0,0.0,0,2.0,0
+1596,2028,SUI,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1597,2028,SUI,Cycling BMX Freestyle,0.0,0,0.0,0,0.0,0
+1598,2028,SUI,Cycling BMX Racing,0.0,0,0.0,0,1.0,0
+1599,2028,SUI,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1600,2028,SUI,Cycling Road,0.0,0,0.0,0,0.0,0
+1601,2028,SUI,Cycling Track,0.0,0,0.0,0,0.0,0
+1602,2028,SUI,Equestrian,0.0,0,1.0,0,0.0,0
+1603,2028,SUI,Fencing,0.0,0,0.0,0,0.0,0
+1604,2028,SUI,Golf,0.0,0,0.0,0,0.0,0
+1605,2028,SUI,Judo,0.0,0,0.0,0,0.0,0
+1606,2028,SUI,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1607,2028,SUI,Rowing,0.0,0,0.0,0,2.0,0
+1608,2028,SUI,Sailing,0.0,0,0.0,0,0.0,0
+1609,2028,SUI,Shooting,1.0,0,0.0,0,1.0,0
+1610,2028,SUI,Sport Climbing,0.0,0,0.0,0,0.0,0
+1611,2028,SUI,Swimming,0.0,0,0.0,0,1.0,0
+1612,2028,SUI,Tennis,0.0,0,0.0,0,0.0,0
+1613,2028,SUI,Triathlon,0.0,0,1.0,0,0.0,0
+1614,2028,SUR,Athletics,0.0,0,0.0,0,0.0,0
+1615,2028,SUR,Badminton,0.0,0,0.0,0,0.0,0
+1616,2028,SUR,Cycling Track,0.0,0,0.0,0,0.0,0
+1617,2028,SUR,Swimming,0.0,0,0.0,0,0.0,0
+1618,2028,SVK,Archery,0.0,0,0.0,0,0.0,0
+1619,2028,SVK,Athletics,0.0,0,0.0,0,0.0,0
+1620,2028,SVK,Boxing,0.0,0,0.0,0,0.0,0
+1621,2028,SVK,Canoe Slalom,0.0,0,0.0,0,1.0,0
+1622,2028,SVK,Cycling Road,0.0,0,0.0,0,0.0,0
+1623,2028,SVK,Judo,0.0,0,0.0,0,0.0,0
+1624,2028,SVK,Sailing,0.0,0,0.0,0,0.0,0
+1625,2028,SVK,Shooting,0.0,0,0.0,0,0.0,0
+1626,2028,SVK,Swimming,0.0,0,0.0,0,0.0,0
+1627,2028,SVK,Table Tennis,0.0,0,0.0,0,0.0,0
+1628,2028,SVK,Tennis,0.0,0,0.0,0,0.0,0
+1629,2028,SVK,Wrestling,0.0,0,0.0,0,0.0,0
+1630,2028,SWE,Athletics,1.0,1,0.0,1,0.0,1
+1631,2028,SWE,Beach Volleyball,2.0,1,0.0,0,0.0,0
+1632,2028,SWE,Boxing,0.0,0,0.0,0,0.0,0
+1633,2028,SWE,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1634,2028,SWE,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1635,2028,SWE,Cycling Mountain Bike,0.0,0,0.0,0,1.0,0
+1636,2028,SWE,Diving,0.0,0,0.0,0,0.0,0
+1637,2028,SWE,Equestrian,0.0,0,0.0,0,0.0,0
+1638,2028,SWE,Golf,0.0,0,0.0,0,0.0,0
+1639,2028,SWE,Handball,0.0,1,0.0,1,0.0,1
+1640,2028,SWE,Judo,0.0,0,0.0,0,1.0,0
+1641,2028,SWE,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1642,2028,SWE,Sailing,0.0,0,2.0,1,2.0,1
+1643,2028,SWE,Shooting,0.0,0,1.0,0,0.0,0
+1644,2028,SWE,Skateboarding,0.0,0,0.0,0,0.0,0
+1645,2028,SWE,Swimming,2.0,1,0.0,1,0.0,1
+1646,2028,SWE,Table Tennis,0.0,0,4.0,1,0.0,1
+1647,2028,SWE,Triathlon,0.0,0,0.0,0,0.0,0
+1648,2028,SWE,Wrestling,0.0,0,0.0,0,0.0,0
+1649,2028,SWZ,Athletics,0.0,0,0.0,0,0.0,0
+1650,2028,SWZ,Swimming,0.0,0,0.0,0,0.0,0
+1651,2028,SYR,Athletics,0.0,0,0.0,0,0.0,0
+1652,2028,SYR,Equestrian,0.0,0,0.0,0,0.0,0
+1653,2028,SYR,Judo,0.0,0,0.0,0,0.0,0
+1654,2028,SYR,Swimming,0.0,0,0.0,0,0.0,0
+1655,2028,SYR,Weightlifting,0.0,0,0.0,0,0.0,0
+1656,2028,TAN,Athletics,0.0,0,0.0,0,0.0,0
+1657,2028,TAN,Judo,0.0,0,0.0,0,0.0,0
+1658,2028,TAN,Swimming,0.0,0,0.0,0,0.0,0
+1659,2028,TGA,Athletics,0.0,0,0.0,0,0.0,0
+1660,2028,TGA,Boxing,0.0,0,0.0,0,0.0,0
+1661,2028,TGA,Swimming,0.0,0,0.0,0,0.0,0
+1662,2028,THA,Athletics,0.0,0,0.0,0,0.0,0
+1663,2028,THA,Badminton,0.0,0,1.0,0,0.0,0
+1664,2028,THA,Boxing,0.0,0,0.0,0,1.0,0
+1665,2028,THA,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+1666,2028,THA,Cycling Road,0.0,0,0.0,0,0.0,0
+1667,2028,THA,Equestrian,0.0,0,0.0,0,0.0,0
+1668,2028,THA,Golf,0.0,0,0.0,0,0.0,0
+1669,2028,THA,Judo,0.0,0,0.0,0,0.0,0
+1670,2028,THA,Rowing,0.0,0,0.0,0,0.0,0
+1671,2028,THA,Sailing,0.0,0,0.0,0,0.0,0
+1672,2028,THA,Shooting,0.0,0,0.0,0,0.0,0
+1673,2028,THA,Swimming,0.0,0,0.0,0,0.0,0
+1674,2028,THA,Table Tennis,0.0,0,0.0,0,0.0,0
+1675,2028,THA,Taekwondo,1.0,0,0.0,0,0.0,0
+1676,2028,THA,Weightlifting,0.0,0,2.0,1,1.0,1
+1677,2028,TJK,Athletics,0.0,0,0.0,0,0.0,0
+1678,2028,TJK,Boxing,0.0,0,0.0,0,1.0,0
+1679,2028,TJK,Judo,0.0,0,0.0,0,2.0,0
+1680,2028,TJK,Swimming,0.0,0,0.0,0,0.0,0
+1681,2028,TJK,Taekwondo,0.0,0,0.0,0,0.0,0
+1682,2028,TJK,Wrestling,0.0,0,0.0,0,0.0,0
+1683,2028,TKM,Athletics,0.0,0,0.0,0,0.0,0
+1684,2028,TKM,Judo,0.0,0,0.0,0,0.0,0
+1685,2028,TKM,Swimming,0.0,0,0.0,0,0.0,0
+1686,2028,TKM,Weightlifting,0.0,0,0.0,0,0.0,0
+1687,2028,TLS,Athletics,0.0,0,0.0,0,0.0,0
+1688,2028,TLS,Swimming,0.0,0,0.0,0,0.0,0
+1689,2028,TOG,Athletics,0.0,0,0.0,0,0.0,0
+1690,2028,TOG,Rowing,0.0,0,0.0,0,0.0,0
+1691,2028,TOG,Swimming,0.0,0,0.0,0,0.0,0
+1692,2028,TPE,Archery,0.0,0,0.0,0,0.0,0
+1693,2028,TPE,Artistic Gymnastics,0.0,0,0.0,0,1.0,0
+1694,2028,TPE,Athletics,0.0,0,0.0,0,0.0,0
+1695,2028,TPE,Badminton,2.0,1,0.0,0,0.0,0
+1696,2028,TPE,Boxing,1.0,0,0.0,1,2.0,1
+1697,2028,TPE,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1698,2028,TPE,Fencing,0.0,0,0.0,0,0.0,0
+1699,2028,TPE,Golf,0.0,0,0.0,0,0.0,0
+1700,2028,TPE,Judo,0.0,0,0.0,0,0.0,0
+1701,2028,TPE,Shooting,0.0,0,0.0,0,1.0,0
+1702,2028,TPE,Swimming,0.0,0,0.0,0,0.0,0
+1703,2028,TPE,Table Tennis,0.0,0,0.0,0,0.0,0
+1704,2028,TPE,Taekwondo,0.0,0,0.0,0,0.0,0
+1705,2028,TPE,Tennis,0.0,0,0.0,0,0.0,0
+1706,2028,TPE,Weightlifting,0.0,0,0.0,0,1.0,0
+1707,2028,TTO,Athletics,0.0,1,0.0,1,0.0,1
+1708,2028,TTO,Cycling Track,0.0,0,0.0,0,0.0,0
+1709,2028,TTO,Swimming,0.0,0,0.0,0,0.0,0
+1710,2028,TUN,Archery,0.0,0,0.0,0,0.0,0
+1711,2028,TUN,Athletics,0.0,0,0.0,0,0.0,0
+1712,2028,TUN,Boxing,0.0,0,0.0,0,0.0,0
+1713,2028,TUN,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1714,2028,TUN,Fencing,0.0,0,1.0,0,0.0,0
+1715,2028,TUN,Judo,0.0,0,0.0,0,0.0,0
+1716,2028,TUN,Rowing,0.0,0,0.0,0,0.0,0
+1717,2028,TUN,Shooting,0.0,0,0.0,0,0.0,0
+1718,2028,TUN,Swimming,0.0,0,0.0,0,0.0,0
+1719,2028,TUN,Taekwondo,1.0,0,0.0,0,1.0,0
+1720,2028,TUN,Tennis,0.0,0,0.0,0,0.0,0
+1721,2028,TUN,Weightlifting,0.0,0,0.0,0,0.0,0
+1722,2028,TUN,Wrestling,0.0,0,0.0,0,0.0,0
+1723,2028,TUR,Archery,0.0,0,0.0,0,3.0,0
+1724,2028,TUR,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1725,2028,TUR,Athletics,0.0,1,0.0,1,0.0,1
+1726,2028,TUR,Badminton,0.0,0,0.0,0,0.0,0
+1727,2028,TUR,Boxing,0.0,0,2.0,0,1.0,1
+1728,2028,TUR,Cycling Road,0.0,0,0.0,0,0.0,0
+1729,2028,TUR,Fencing,0.0,0,0.0,0,0.0,0
+1730,2028,TUR,Judo,0.0,0,0.0,0,0.0,0
+1731,2028,TUR,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1732,2028,TUR,Rowing,0.0,0,0.0,0,0.0,0
+1733,2028,TUR,Sailing,0.0,0,0.0,0,0.0,0
+1734,2028,TUR,Shooting,0.0,0,2.0,0,0.0,0
+1735,2028,TUR,Swimming,0.0,0,0.0,0,0.0,0
+1736,2028,TUR,Table Tennis,0.0,0,0.0,0,0.0,0
+1737,2028,TUR,Taekwondo,0.0,0,0.0,0,1.0,0
+1738,2028,TUR,Volleyball,0.0,0,0.0,0,0.0,1
+1739,2028,TUR,Weightlifting,0.0,0,0.0,0,0.0,0
+1740,2028,TUR,Wrestling,0.0,0,0.0,0,2.0,0
+1741,2028,TUV,Athletics,0.0,0,0.0,0,0.0,0
+1742,2028,UAE,Athletics,0.0,0,0.0,0,0.0,0
+1743,2028,UAE,Judo,0.0,0,0.0,0,0.0,0
+1744,2028,UAE,Swimming,0.0,0,0.0,0,0.0,0
+1745,2028,UGA,Athletics,1.0,1,1.0,1,0.0,1
+1746,2028,UGA,Rowing,0.0,0,0.0,0,0.0,0
+1747,2028,UGA,Swimming,0.0,0,0.0,0,0.0,0
+1748,2028,UKR,Archery,0.0,0,0.0,0,0.0,0
+1749,2028,UKR,Artistic Gymnastics,0.0,0,1.0,0,0.0,0
+1750,2028,UKR,Artistic Swimming,0.0,0,0.0,0,0.0,0
+1751,2028,UKR,Athletics,1.0,1,0.0,2,2.0,2
+1752,2028,UKR,Badminton,0.0,0,0.0,0,0.0,0
+1753,2028,UKR,Boxing,1.0,0,0.0,0,0.0,0
+1754,2028,UKR,Canoe Slalom,0.0,0,0.0,0,0.0,0
+1755,2028,UKR,Canoe Sprint,0.0,0,2.0,0,0.0,0
+1756,2028,UKR,Cycling Mountain Bike,0.0,0,0.0,0,0.0,0
+1757,2028,UKR,Cycling Road,0.0,0,0.0,0,0.0,0
+1758,2028,UKR,Diving,0.0,0,0.0,0,0.0,0
+1759,2028,UKR,Fencing,4.0,1,0.0,1,1.0,1
+1760,2028,UKR,Judo,0.0,0,0.0,0,0.0,0
+1761,2028,UKR,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1762,2028,UKR,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+1763,2028,UKR,Rowing,0.0,0,0.0,0,0.0,0
+1764,2028,UKR,Shooting,0.0,0,1.0,0,0.0,0
+1765,2028,UKR,Swimming,0.0,0,0.0,0,0.0,0
+1766,2028,UKR,Table Tennis,0.0,0,0.0,0,0.0,0
+1767,2028,UKR,Tennis,0.0,0,0.0,0,0.0,0
+1768,2028,UKR,Weightlifting,0.0,0,0.0,0,0.0,0
+1769,2028,UKR,Wrestling,0.0,0,2.0,1,1.0,1
+1770,2028,URU,Athletics,0.0,0,0.0,0,0.0,0
+1771,2028,URU,Judo,0.0,0,0.0,0,0.0,0
+1772,2028,URU,Rowing,0.0,0,0.0,0,0.0,0
+1773,2028,URU,Sailing,0.0,0,0.0,0,0.0,0
+1774,2028,URU,Swimming,0.0,0,0.0,0,0.0,0
+1775,2028,USA,Archery,0.0,1,0.0,1,4.0,1
+1776,2028,USA,Archery,0.0,1,1.0,0,2.0,1
+1777,2028,USA,Artistic Gymnastics,7.0,5,1.0,3,9.0,3
+1778,2028,USA,Artistic Swimming,0.0,2,9.0,2,0.0,2
+1779,2028,USA,Athletics,33.0,27,16.0,11,9.0,15
+1780,2028,USA,Badminton,0.0,0,0.0,0,0.0,0
+1781,2028,USA,Basketball,24.0,19,0.0,4,0.0,5
+1782,2028,USA,Beach Volleyball,0.0,1,0.0,0,0.0,0
+1783,2028,USA,Boxing,0.0,1,0.0,0,1.0,0
+1784,2028,USA,Canoe Slalom,0.0,0,0.0,0,1.0,0
+1785,2028,USA,Canoe Sprint,0.0,1,1.0,0,0.0,0
+1786,2028,USA,Cycling BMX Freestyle,0.0,1,1.0,0,0.0,0
+1787,2028,USA,Cycling BMX Racing,0.0,0,0.0,0,0.0,0
+1788,2028,USA,Cycling Mountain Bike,0.0,1,1.0,0,0.0,0
+1789,2028,USA,Cycling Road,0.0,0,0.0,0,0.0,0
+1790,2028,USA,Cycling Track,5.0,2,0.0,1,0.0,1
+1791,2028,USA,Diving,0.0,1,2.0,0,0.0,0
+1792,2028,USA,Equestrian,0.0,1,4.0,1,0.0,1
+1793,2028,USA,Fencing,5.0,4,1.0,2,1.0,3
+1794,2028,USA,Football,20.0,12,0.0,5,0.0,5
+1795,2028,USA,Golf,1.0,1,0.0,0,0.0,0
+1796,2028,USA,Hockey,0.0,1,0.0,1,0.0,2
+1797,2028,USA,Judo,0.0,0,0.0,0,0.0,0
+1798,2028,USA,Marathon Swimming,0.0,0,0.0,0,0.0,0
+1799,2028,USA,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1800,2028,USA,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+1801,2028,USA,Rowing,4.0,4,0.0,4,9.0,4
+1802,2028,USA,Rugby Sevens,0.0,2,0.0,2,12.0,3
+1803,2028,USA,Sailing,0.0,1,0.0,1,2.0,1
+1804,2028,USA,Shooting,1.0,2,4.0,2,1.0,2
+1805,2028,USA,Skateboarding,0.0,1,2.0,1,1.0,1
+1806,2028,USA,Sport Climbing,0.0,1,1.0,0,1.0,0
+1807,2028,USA,Surfing,1.0,1,0.0,0,0.0,0
+1808,2028,USA,Swimming,27.0,33,35.0,11,7.0,11
+1809,2028,USA,Table Tennis,0.0,0,0.0,0,0.0,0
+1810,2028,USA,Taekwondo,0.0,0,0.0,0,1.0,0
+1811,2028,USA,Tennis,0.0,1,2.0,1,2.0,1
+1812,2028,USA,Trampoline Gymnastics,0.0,0,0.0,0,0.0,0
+1813,2028,USA,Triathlon,0.0,0,0.0,0,0.0,0
+1814,2028,USA,Volleyball,0.0,9,13.0,6,13.0,6
+1815,2028,USA,Water Polo,0.0,3,0.0,3,13.0,3
+1816,2028,USA,Weightlifting,1.0,1,0.0,0,1.0,0
+1817,2028,USA,Wrestling,2.0,3,2.0,2,3.0,2
+1818,2028,UZB,Artistic Gymnastics,0.0,0,0.0,0,0.0,0
+1819,2028,UZB,Athletics,0.0,0,0.0,0,0.0,0
+1820,2028,UZB,Boxing,5.0,2,0.0,1,0.0,1
+1821,2028,UZB,Canoe Sprint,0.0,0,0.0,0,0.0,0
+1822,2028,UZB,Cycling Road,0.0,0,0.0,0,0.0,0
+1823,2028,UZB,Fencing,0.0,0,0.0,0,0.0,0
+1824,2028,UZB,Judo,1.0,1,0.0,1,2.0,1
+1825,2028,UZB,Modern Pentathlon,0.0,0,0.0,0,0.0,0
+1826,2028,UZB,Rhythmic Gymnastics,0.0,0,0.0,0,0.0,0
+1827,2028,UZB,Rowing,0.0,0,0.0,0,0.0,0
+1828,2028,UZB,Swimming,0.0,0,0.0,0,0.0,0
+1829,2028,UZB,Taekwondo,1.0,0,1.0,0,0.0,0
+1830,2028,UZB,Weightlifting,0.0,0,1.0,0,0.0,0
+1831,2028,UZB,Wrestling,1.0,0,0.0,0,1.0,0
+1832,2028,VAN,Athletics,0.0,0,0.0,0,0.0,0
+1833,2028,VAN,Judo,0.0,0,0.0,0,0.0,0
+1834,2028,VAN,Table Tennis,0.0,0,0.0,0,0.0,0
+1835,2028,VEN,Athletics,0.0,0,0.0,0,0.0,0
+1836,2028,VEN,Boxing,0.0,0,0.0,0,0.0,0
+1837,2028,VEN,Fencing,0.0,0,0.0,0,0.0,0
+1838,2028,VEN,Judo,0.0,0,0.0,0,0.0,0
+1839,2028,VEN,Shooting,0.0,0,0.0,0,0.0,0
+1840,2028,VEN,Swimming,0.0,0,0.0,0,0.0,0
+1841,2028,VEN,Taekwondo,0.0,0,0.0,0,0.0,0
+1842,2028,VEN,Weightlifting,0.0,0,0.0,0,0.0,0
+1843,2028,VEN,Wrestling,0.0,0,0.0,0,0.0,0
+1844,2028,VIE,Archery,0.0,0,0.0,0,0.0,0
+1845,2028,VIE,Athletics,0.0,0,0.0,0,0.0,0
+1846,2028,VIE,Badminton,0.0,0,0.0,0,0.0,0
+1847,2028,VIE,Boxing,0.0,0,0.0,0,0.0,0
+1848,2028,VIE,Judo,0.0,0,0.0,0,0.0,0
+1849,2028,VIE,Rowing,0.0,0,0.0,0,0.0,0
+1850,2028,VIE,Shooting,0.0,0,0.0,0,0.0,0
+1851,2028,VIE,Swimming,0.0,0,0.0,0,0.0,0
+1852,2028,VIE,Weightlifting,0.0,0,0.0,0,0.0,0
+1853,2028,VIN,Athletics,0.0,0,0.0,0,0.0,0
+1854,2028,VIN,Swimming,0.0,0,0.0,0,0.0,0
+1855,2028,YEM,Athletics,0.0,0,0.0,0,0.0,0
+1856,2028,YEM,Judo,0.0,0,0.0,0,0.0,0
+1857,2028,YEM,Shooting,0.0,0,0.0,0,0.0,0
+1858,2028,YEM,Swimming,0.0,0,0.0,0,0.0,0
+1859,2028,ZAM,Athletics,0.0,0,0.0,0,1.0,0
+1860,2028,ZAM,Boxing,0.0,0,0.0,0,0.0,0
+1861,2028,ZAM,Football,0.0,1,0.0,1,0.0,2
+1862,2028,ZAM,Judo,0.0,0,0.0,0,0.0,0
+1863,2028,ZAM,Swimming,0.0,0,0.0,0,0.0,0
+1864,2028,ZIM,Athletics,0.0,0,0.0,0,0.0,0
+1865,2028,ZIM,Rowing,0.0,0,0.0,0,0.0,0
+1866,2028,ZIM,Swimming,0.0,0,0.0,0,0.0,0
